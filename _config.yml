@@ -1,12 +1,12 @@
-title: Hexo
-subtitle: ''
-description: ''
+title: 'K4LM3D'
+subtitle: 'Gamer, Developer'
+description: 'Gamer Profile'
 keywords: null
-author: John Doe
+author: 'K4LM3D'
 language: en
-timezone: ''
-url: http://example.com
-permalink: ':year/:month/:day/:title/'
+timezone: 'Asia/Tokyo'
+url: https://k4lm3d.github.io
+permalink: ':title/' # ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
@@ -61,4 +61,7 @@ exclude: null
 ignore: null
 theme: icarus
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/k4lm3d/k4lm3d.github.io'
+  branch: 'gh-pages'
+  message: 'Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}'
