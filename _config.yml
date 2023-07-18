@@ -64,4 +64,4 @@ deploy:
   type: git
   repo: https://github.com/k4lm3d/k4lm3d.github.io.git
   branch: gh-pages
-  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+  message: "Site updated {{ now('YYYY-MM-DD HH:mm:ss') }}"
