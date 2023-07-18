@@ -1,9 +1,9 @@
 version: 5.1.0
-variant: cyberpunk
+variant: default #cyberpunk
 logo:
   text: K4LM3D
 head:
-  favicon: https://k4lm3d.netlify.app/images/avatars/DALLE-K4LM3D.png
+  favicon: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
   manifest:
     name: K4LM3D
     short_name: K4LM3D
@@ -73,11 +73,11 @@ search:
   # Optional. Set to `false` to exclude pages from search results.
 footer: 
   links:
-    See you at CyberCode Online's Tagalog Channel: https://cybercodeonline.com
+    See you at CyberCode Online: https://cybercodeonline.com
   article:
     highlight:
       theme: xt256
-      clipboard: false
+      clipboard: true
       fold: unfolded
     readtime: false
 sidebar:
@@ -92,7 +92,7 @@ widgets:
     author: K4LM3D
     author_title: '/ka:md/'
     location: Shangri-La City
-    avatar: https://k4lm3d.netlify.app/images/avatars/DALLE-K4LM3D.png
+    avatar: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     gravatar: 
     follow_link: 
@@ -107,8 +107,8 @@ widgets:
         icon: fab fa-twitter
         url: https://twitter.com/K4LM3D
       TikTok:
-          icon: fab fa-tiktok
-          url: https://tiktok.com/K4LM3D
+        icon: fab fa-tiktok
+        url: https://tiktok.com/K4LM3D
 plugins:
   animejs: true
   back_to_top: true
