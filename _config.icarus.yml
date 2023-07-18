@@ -95,7 +95,7 @@ widgets:
     avatar: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     gravatar: 
-    follow_link: 
+    follow_link: https://github.com/K4LM3D
     social_links:
       Facebook:
         icon: fab fa-facebook
