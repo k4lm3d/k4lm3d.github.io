@@ -3,7 +3,7 @@ variant: default #cyberpunk
 logo:
   text: K4LM3D
 head:
-  favicon: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
+  favicon: /images/avatars/DALLE-K4LM3D-NOBG.png
   manifest:
     name: K4LM3D
     short_name: K4LM3D
@@ -73,7 +73,8 @@ search:
   # Optional. Set to `false` to exclude pages from search results.
 footer: 
   links:
-    See you at CyberCode Online: https://cybercodeonline.com
+    # CyberCode Online: /cco
+    # SimCompanies: /sc
   article:
     highlight:
       theme: xt256
