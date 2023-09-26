@@ -3,7 +3,7 @@ title: "Ahoy, Citizens of Shangri-La!"
 date: 2023-09-26 16:16:42
 cover:
 thumbnail:
-updated: 
+updated:
 article:
 excerpt:
 comments:
