@@ -7,7 +7,7 @@ head:
   manifest:
     name: K4LM3D
     short_name: K4LM3D
-    start_url: https://k4lm3d.github.io
+    start_url: https://kalmed.inote.me
     theme_color: '#3273dc'
     background_color: '#3273dc'
     display: standalone
