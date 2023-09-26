@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2023-06-07 15:21:43
-cover: '/images/banners/K4LM3D_banner.png'
+cover:
 thumbnail:
 updated: 2023-09-26 14:39:58
 article:
