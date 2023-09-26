@@ -1,0 +1,70 @@
+---
+title: ukay.md
+date: 2023-09-26 17:14:27
+cover:
+thumbnail:
+updated:
+article:
+excerpt: Gears For Sale at Player's Market on CyberCode Online by K4LM3D
+comments:
+layout:
+source:
+photos:
+lang:
+tags:
+categories: 'CyberCode Online'
+permalink: cco-ukay-ukay
+
+
+# Variant Settings
+variant: cyberpunk
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: false
+widgets:
+  -
+    position: left
+    type: profile
+    author: K4LM3D
+    author_title: Player & Contribution Dev
+    location: Shangri-La City Center
+    avatar: /images/avatars/DALLE-K4LM3D.png
+    avatar_rounded: true
+    follow_link: 'https://github.com/K4LM3D'
+    social_links:
+      Facebook:
+        icon: fab fa-facebook
+        url: https://facebook.com/profile.php?id=100091224549821
+      Instagram:
+        icon: fab fa-instagram
+        url: https://www.instagram.com/k4lm3d
+      Twitter:
+        icon: fab fa-twitter
+        url: https://twitter.com/K4LM3D
+      TikTok:
+        icon: fab fa-tiktok
+        url: https://tiktok.com/K4LM3D
+  -
+    position: left
+    type: links
+    links:
+      Play CyberCode Online: 'https://cybercodeonline.com'
+      About K4LM3D of CCO: '/cco-about-me'
+      K4LM3D's Ukay-ukay: '/cco-ukay-ukay'
+  -
+    position: right
+    type: categories
+  -
+    position: right
+    type: recent_posts
+  -
+    position: right
+    type: archives
+  -
+    position: right
+    type: tags
+---
+
+**Will be open soon!**
