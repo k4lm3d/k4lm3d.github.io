@@ -3,7 +3,7 @@ title: CyberCode Online
 date: 2023-06-07 15:21:43
 cover:
 thumbnail:
-updated: 2023-07-18 22:41:58
+updated: 2023-09-26 14:39:58
 article:
   highlight:
     theme: qtcreator_dark
@@ -52,13 +52,13 @@ widgets:
       About K4LM3D of CCO: '/cco'
       K4LM3D's Ukay-ukay: '/cco/ukay-ukay'
   -
-    position: left
+    position: right
     type: categories
   -
-    position: left
+    position: right
     type: recent_posts
   -
-    position: left
+    position: right
     type: archives
   -
     position: right
