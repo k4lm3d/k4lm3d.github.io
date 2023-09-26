@@ -13,7 +13,7 @@ layout:
 source: 
 photos:
 lang:
-permalink: cybercodeonline
+permalink: cco
 
 variant: cyberpunk
 sidebar:
@@ -26,7 +26,7 @@ widgets:
     position: left
     type: profile
     author: K4LM3D
-    author_title: Contribution Dev
+    author_title: Player & Contribution Dev
     location: Shangri-La City Center
     avatar: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
@@ -48,8 +48,9 @@ widgets:
     position: left
     type: links
     links:
-      Hexo: 'https://hexo.io'
-      Bulma: 'https://bulma.io'
+      CyberCode Online: 'https://cybercodeonline.com'
+      About K4LM3D of CCO: '/cco'
+      K4LM3D's Ukay-ukay: '/cco/ukay-ukay'
   -
     position: left
     type: categories
@@ -70,15 +71,15 @@ widgets:
 
 - 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my low level weapons and gears. Please check out my stall in the market called *"Ukay-ukay"*
-  + ⛑ Helping `krolik` on gathering gang resources until my mining skill go up to level 204
+  + 🛒 Selling some of my old weapons and gears. Please check out my stall in the market called *"Ukay-ukay"* (in-game)
+  + ⛑ ~Helping `krolik` on gathering gang resources until my mining skill go up to level 204~
 
 - 🌱 Currently learning...
   + To craft my *tech scraps*, *military ammunition tech parts*, and *medical tech parts* into *hash processors*
 
 - 🤝 Gang/s:
   + Former member of ~`X_MOD [X_X]`~, ~`Thoughts_of_Tacos [TOT]`~, ~`Kalasag [KLG]`~
-  + Former leader/founder of ~`Ctrl_and_Shift [CAS]`~, ~`Peace_OutBreak [POB]`~
+  + Former leader/founder of ~`Ctrl_and_Shift [CAS]`~, ~`Peace_OutBreak [POB]`~, ~`Tagalog Channel [TAG]`~
   + Friends with these gang's leaders: ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
   + Hopper at these gangs: `Conquerors [CQR]`, ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
   + 🐰 Currently a member of `CyBunnies [BUN]`
@@ -87,14 +88,14 @@ widgets:
 
 - ⚡ Fun fact/s:
   + ☕ I need cups of coffee not *pain aways*™ to heal
-  + 💭 I think a lot that's why I wear a ro-bunny suit to relax created with [DELL-E](https://openai.com)'s technology
+  + 💭 I think a lot that's why I wear a ro-bunny suit created with [DELL-E](https://openai.com/dall-e-2/)'s technology to relax
 
 - 🤫 TMI/s:
   + 👤 My nickname, **Kal**, is given to me by my CCO friends, `Chief_Marauder` & `Ain_sel`, and we have a group chat called *ChAin3D* on Discord
 
 - 💬 Ask me about...
-  + CCO stuff
-  + web development stuff
+  + play CCO
+  + contribute to CCO
 
 - 🤔 Looking for...
   + ~Gang dungeon buddy~
