@@ -1,10 +1,12 @@
 ---
 title: 'Ahoy, Citizens of Shangri-La!'
-date: '2023-09-26 16:16:42'
+date: 2023-09-26 16:16:42
 cover:
 thumbnail:
 updated:
 article:
+  highlight:
+    theme: qtcreator_dark
 excerpt:
 comments:
 layout:
@@ -29,7 +31,7 @@ widgets:
     author: K4LM3D
     author_title: Player & Contribution Dev
     location: Shangri-La City Center
-    avatar: https://k4lm3d.pages.dev/images/avatars/DALLE-K4LM3D.png
+    avatar: /images/avatars/DALLE-K4LM3D.png
     avatar_rounded: true
     follow_link: 'https://github.com/K4LM3D'
     social_links:
