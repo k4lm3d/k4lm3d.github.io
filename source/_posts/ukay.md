@@ -1,5 +1,5 @@
 ---
-title: ukay.md
+title: K4LM3D's Ukay-ukay
 date: 2023-09-26 17:14:27
 cover:
 thumbnail:
@@ -14,7 +14,6 @@ lang:
 tags:
 categories: 'CyberCode Online'
 permalink: cco-ukay-ukay
-
 
 # Variant Settings
 variant: cyberpunk
