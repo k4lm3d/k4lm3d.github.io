@@ -1,12 +1,10 @@
 ---
-title: 'Ahoy, Citizens of Shangri-La!'
+title: Ahoy, Citizens of Shangri-La!
 date: 2023-09-26 16:16:42
 cover:
 thumbnail:
 updated:
 article:
-  highlight:
-    theme: qtcreator_dark
 excerpt:
 comments:
 layout:
