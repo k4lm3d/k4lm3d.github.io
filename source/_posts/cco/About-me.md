@@ -41,7 +41,7 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-      About K4LM3D of CCO: /cco/about-me
+      About K4LM3D: /cco/about-me
       Ukay-ukay: /cco/ukay-ukay
 ---
 
