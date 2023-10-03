@@ -77,7 +77,7 @@ footer:
     # SimCompanies: /sc
   article:
     highlight:
-      theme: atom-one-light # xt256
+      theme: atom-one-light # xt256, qtcreator_dark
       clipboard: true
       fold: unfolded
     readtime: true
