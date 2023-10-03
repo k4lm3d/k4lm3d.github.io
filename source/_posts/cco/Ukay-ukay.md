@@ -7,11 +7,6 @@ categories:
 article:
   highlight:
     theme: qtcreator_dark
-    line_number: false
-    line_threshold: 25
-    clipboard: false
-    fold: unfolded
-    wrap: true
 variant: cyberpunk
 sidebar:
   left:
