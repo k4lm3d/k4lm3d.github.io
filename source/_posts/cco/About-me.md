@@ -62,7 +62,7 @@ widgets:
   + Former member of ~`X_MOD [X_X]`~, ~`Thoughts_of_Tacos [TOT]`~, ~`Kalasag [KLG]`~
   + Former leader/founder of ~`Ctrl_and_Shift [CAS]`~, ~`Peace_OutBreak [POB]`~, ~`Tagalog Channel [TAG]`~
   + Friends with these gang's leaders: ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
-  + Hopper at these gangs: `Conquerors [CQR]`, ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
+  + Hopper at these gangs: ~`Conquerors [CQR]`~, ~`Marauders_Empire [MSE]`~, `Asterion [AST]`, `Nousagi [NSG]`
   + 🐰 Currently a member of `CyBunnies [BUN]`
 
     > We love to *H.O.P. (help other people)*!
@@ -74,7 +74,7 @@ widgets:
 - 🤫 TMIs:
   + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder [BUN]` & `Ain_sel [AST]`, and we have a group chat called *ChAin3D* on Discord
   + 🚩 `Nousagi [NSE]` gang is basically Tagalog channel's gang!
-  + 🎈 More friends: `En_Roise [NSG]`, `ZeaZ [BUN]`, `GrimTalker [0_O]`, `Khaelent [IDR]`, ~~`Nyxll [MSE]`~~, ~~`RSTwinBlade`~~, `SkaE_17 [NSG]`, `SickPanel [0_O]`
+  + 🎈 More friends: `En_Roise [NSG]`, `ZeaZ [EYN]`, `GrimTalker [0_O]`, `Khaelent [IDR]`, ~~`Nyxll [MSE]`~~, ~~`RSTwinBlade`~~, `SkaE_17 [NSG]`, `SickPanel [0_O]`
   + 🤍 R.I.P.: `King_of_kings [NSG]`
 
 - 💬 Ask me about...
