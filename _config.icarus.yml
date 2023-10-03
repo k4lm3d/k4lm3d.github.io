@@ -1,14 +1,14 @@
 version: 5.1.0
 variant: default #cyberpunk
-logo:
-  text: K4LM3D
+logo: /images/logos/K4LM3D-text.png
+  # text: K4LM3D
 head:
   favicon: /images/avatars/DALLE-K4LM3D-NOBG.png
-  manifest:
+  manifest: # PWA
     name: K4LM3D
     short_name: K4LM3D
     start_url: https://kalmed.inote.me
-    theme_color: '#3273dc'
+    theme_color: '#91bf24'
     background_color: '#3273dc'
     display: standalone
     icons:
@@ -45,7 +45,7 @@ head:
     publisher: 
     publisher_logo: 
   meta:
-    - name=theme-color;content=#123456
+    - name=theme-color;content=#91bf24
     - name=generator;content="Hexo 4.2.0"
   rss: 
 navbar:
@@ -77,10 +77,17 @@ footer:
     # SimCompanies: /sc
   article:
     highlight:
-      theme: xt256
+      theme: atom-one-light # xt256
       clipboard: true
       fold: unfolded
-    readtime: false
+    readtime: true
+    updated_time: auto
+    licenses:
+      # Creative Commons:
+      #   icon: fab fa-creative-commons
+      #   url: 'https://creativecommons.org'
+      # 'CC BY-NC-SA 4.0': ''
+  # copyright: K4LM3D
 sidebar:
   left:
     sticky: true
