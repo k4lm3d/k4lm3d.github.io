@@ -52,9 +52,8 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: false
-  clipboard: false
-  fold: unfolded
-  wrap: true
+  # clipboard: false
+  # fold: unfolded
 prismjs:
   enable: false
   preprocess: true
