@@ -46,11 +46,15 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: true
+  line_number: false
+  line_threshold: 25
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
+  clipboard: false
+  fold: unfolded
+  wrap: true
 prismjs:
   enable: false
   preprocess: true
