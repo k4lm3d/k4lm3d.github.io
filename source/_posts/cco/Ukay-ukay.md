@@ -7,6 +7,11 @@ categories:
 article:
   highlight:
     theme: qtcreator_dark
+    line_number: false
+    line_threshold: 25
+    clipboard: false
+    fold: unfolded
+    wrap: true
 variant: cyberpunk
 sidebar:
   left:
@@ -45,4 +50,20 @@ widgets:
       Ukay-ukay: /cco/ukay-ukay
 ---
 
-**Will be open soon!**
+`SYSTEM`
+🚨 Attention citizens of Shangri-La!
+🛍 **K4LM3D's Online Ukay-ukay Stall is now open!**
+✉ <small>To buy, send a message to me in-game</small>
+
+![Buy Now!](/images/gifs/BUY_NOW.gif)
+
+> {% codeblock Legendary Light Defender's Gun of Bargaining lang:diff  %}
+Level 0 - Primary/Secondary/Destructive Weapon / Helmet / Upper/Lower Armor / Boots - Lethal/Disruptor/Makeshift
+HEALTH: 0 - DMG: 0 - ARMOR: 0
+BARGAIN: 0 - POCKET: 0
+SHEILD: 0 - ESCAPE: 0
+CRIT: 0 - CRIT_DMG: 0 - EVADE: 0 - STUN: 0
+UPGRADES_SLOT: 0
+{% endcodeblock %}
+
+![Sale](/images/gifs/SALE.gif)
