@@ -1,7 +1,6 @@
 ---
 title: "Hello, world!"
 date: 2023-10-03 14:05:32
-updated: 2023-10-03 14:05:32
 excerpt: "Hello from K4LM3D. This is the first post"
 ---
 

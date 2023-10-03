@@ -1,7 +1,6 @@
 ---
 title: "CyberCode Online's K4LM3D"
 date: 2023-10-03 15:21:50
-updated: 2023-10-03 15:21:50
 excerpt: All about K4LM3D in-game on CyberCode Online
 categories:
   - CyberCode Online

@@ -1,7 +1,6 @@
 ---
 title: 'Ahoy!'
 date: 2023-10-03 14:22:32
-updated: 2023-10-03 14:22:32
 categories:
   - CyberCode Online
 article:
