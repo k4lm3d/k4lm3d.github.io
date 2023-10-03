@@ -7,6 +7,7 @@ categories:
 article:
   highlight:
     theme: qtcreator_dark
+    clipboard: false
 variant: cyberpunk
 sidebar:
   left:
@@ -52,7 +53,7 @@ widgets:
 
 ![Buy Now!](/images/gifs/BUY_NOW.gif)
 
-> {% codeblock Legendary Light Defender's Gun of Bargaining lang:diff  %}
+> {% codeblock Legendary Light Defender's Gun of Bargaining lang:diff unfolded  %}
 Level 0 - Primary/Secondary/Destructive Weapon / Helmet / Upper/Lower Armor / Boots - Lethal/Disruptor/Makeshift
 HEALTH: 0 - DMG: 0 - ARMOR: 0
 BARGAIN: 0 - POCKET: 0
