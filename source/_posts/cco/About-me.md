@@ -52,7 +52,7 @@ widgets:
 
 - 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my old weapons and gears. Please check out my stall in the market called *"Ukay-ukay"* (in-game)
+  + 🛒 Selling some of my old weapons and gears. Please check out my stall in the market called [*"Ukay-ukay"*](/cco/ukay-ukay) (in-game)
   + ⛑ ~Helping `krolik [BUN]` on gathering gang resources until my mining skill go up to level 204~
 
 - 🌱 Currently learning...
