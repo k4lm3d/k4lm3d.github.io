@@ -81,7 +81,7 @@ footer:
       clipboard: true
       fold: unfolded
     readtime: true
-    updated_time: auto
+    updated_time: false
     licenses:
       # Creative Commons:
       #   icon: fab fa-creative-commons
