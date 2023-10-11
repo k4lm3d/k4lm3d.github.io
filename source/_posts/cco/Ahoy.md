@@ -2,7 +2,8 @@
 title: 'Ahoy!'
 date: 2023-10-03 14:22:32
 categories:
-  - CyberCode Online
+  - [CyberCode Online]
+  - [cco]
 article:
   highlight:
     theme: qtcreator_dark
