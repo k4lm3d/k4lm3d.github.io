@@ -55,29 +55,47 @@ navbar:
     Github:
       icon: fab fa-github
       url: https://github.com/K4LM3D
-    Reddit:
-      icon: fab fa-reddit
-      url: https://www.reddit.com/user/K4LM3D
-    Guilded:
-      icon: fab fa-guilded
-      url: https://guilded.gg/u/K4LM3D
-    Twitch:
-      icon: fab fa-twitch
-      url: https://www.twitch.tv/k4lm3d_
-    Itch:
-      icon: fab fa-itch-io
-      url: https://k4lm3d.itch.io/
+    Facebook:
+      icon: fab fa-facebook
+      url: https://facebook.com/profile.php?id=100091224549821
+    Instagram:
+      icon: fab fa-instagram
+      url: https://www.instagram.com/k4lm3d
+    Twitter:
+      icon: fab fa-twitter
+      url: https://twitter.com/K4LM3D
+    TikTok:
+      icon: fab fa-tiktok
+      url: https://tiktok.com/K4LM3D
 search:
   type: insight
   include_pages: true
   # Optional. Set to `false` to exclude pages from search results.
 footer: 
   links:
-    # CyberCode Online: /cco
-    # SimCompanies: /sc
+    # About: /about
+    Creative Commons:
+      icon: fab fa-creative-commons
+      url: 'https://creativecommons.org'
+      'CC BY-NC-SA 4.0': ''
+    Github:
+      icon: fab fa-github
+      url: https://github.com/K4LM3D
+    Guilded:
+      icon: fab fa-guilded
+      url: https://guilded.gg/u/K4LM3D
+    Itch:
+      icon: fab fa-itch-io
+      url: https://k4lm3d.itch.io/
+    # Reddit:
+    #   icon: fab fa-reddit
+    #   url: https://www.reddit.com/user/K4LM3D
+    # Twitch:
+    #   icon: fab fa-twitch
+    #   url: https://www.twitch.tv/k4lm3d_
   article:
     highlight:
-      theme: atom-one-light # xt256, qtcreator_dark
+      theme: atom-one-light # xt256, qtcreator_dark, atom-one-light
       clipboard: true
       fold: unfolded
     readtime: true
@@ -99,11 +117,11 @@ widgets:
     type: profile
     author: K4LM3D
     author_title: '/ka:md/'
-    location: Shangri-La City
-    avatar: /images/avatars/DALLE-K4LM3D.png
+    location: localhost
+    avatar: /images/avatars/ReadyPlayerMe-K4LM3D.png
     avatar_rounded: true
     gravatar: 
-    follow_link: https://github.com/K4LM3D
+    follow_link: # https://github.com/K4LM3D
     social_links:
       Facebook:
         icon: fab fa-facebook
@@ -117,6 +135,10 @@ widgets:
       TikTok:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
+  - 
+    position: right
+    type: toc
+    index: true
 plugins:
   animejs: true
   back_to_top: true
