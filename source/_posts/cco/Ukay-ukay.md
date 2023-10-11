@@ -1,9 +1,11 @@
 ---
 title: 'Online Ukay-ukay'
-date: 2023-10-03 17:14:27
+date: 2023-10-03 17:14:27 # updated: 2023-10-11 23:41:50
 excerpt: "Gears For Sale at Player's Market on CyberCode Online by K4LM3D"
+toc: true
 categories:
-  - CyberCode Online
+  - [CyberCode Online]
+  - [cco]
 article:
   highlight:
     theme: qtcreator_dark
@@ -14,7 +16,7 @@ sidebar:
   left:
     sticky: true
   right:
-    sticky: false
+    sticky: true
 widgets:
   -
     position: left
@@ -38,16 +40,21 @@ widgets:
       TikTok:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
-  -
+  - 
     position: left
+    type: toc
+    index: false
+  -
+    position: right
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
       About K4LM3D: /cco/about-me
-      Ukay-ukay: /cco/ukay-ukay
 ---
 
-`SYSTEM`
+## 📢 Info
+
+`[SYSTEM]`
 🚨 Attention Citizens of Shangri-La!
 🛍 **K4LM3D's Online Ukay-ukay Stall is now open!**
 ✉ <small>For inquiries, send a message to me in-game</small>
@@ -66,7 +73,10 @@ widgets:
 + UPGRADES SLOT: 0
 {% endcodeblock %} -->
 
+## 🛒 Items
+
 ![Buy Now!](/images/gifs/BUY_NOW.gif)
+
 
 > {% codeblock "Lv. 126 Legendary Honor's Brutal Pistol Of Stunning" lang:diff  %}
 +   TIER: Legendary
@@ -112,6 +122,11 @@ widgets:
 -     EVADE: 13
 +   UPGRADES SLOT: 3
 {% endcodeblock %}
+
+___
+
+
+## 📉 [on] Sale
 
 ![Sale](/images/gifs/SALE.gif)
 
@@ -173,3 +188,5 @@ widgets:
 -     POCKET: 5
 +   UPGRADES SLOT: 2
 {% endcodeblock %}
+
+*<small>Last updated on 2023-10-11</small>*
