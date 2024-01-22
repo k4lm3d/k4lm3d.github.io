@@ -1,9 +1,14 @@
 # Redirects
-# https://k4lm3d.github.io
-# https://kalmed.localplayer.dev
-# https://kalmed.gamelog.cl
-# https://kalmed.inote.me
+  # https://k4lm3d.github.io
+  # https://kalmed.localplayer.dev
+  # https://kalmed.gamelog.cl
+  # https://kalmed.inote.me
 
+# Internal
+/cco                      /categories/cco/
+/torn                     /categories/torn/
+
+# External
 /quantic                  https://quantic.page.link/h5ioQWnBvFZi84cr7
 /guilded                  https://www.guilded.gg/u/K4LM3D
 /github                   https://github.com/k4lm3d

@@ -5,7 +5,8 @@ excerpt: "Gears For Sale at Player's Market on CyberCode Online by K4LM3D"
 toc: true
 categories:
   - [CyberCode Online]
-  - [cco]
+tags:
+  - [Shangri-La City]
 article:
   highlight:
     theme: qtcreator_dark

@@ -5,7 +5,8 @@ excerpt: All about K4LM3D in-game on CyberCode Online
 toc: true
 categories:
   - [CyberCode Online]
-  - [cco]
+tags:
+  - [Shangri-La City]
 article:
   highlight:
     theme: qtcreator_dark

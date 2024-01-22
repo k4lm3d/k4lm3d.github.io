@@ -73,6 +73,8 @@ index_generator:
 # default_category: uncategorized
 default_category: uncategorized
 category_map:
+  "CyberCode Online": cco
+  "Torn": torn
 tag_map:
 
 # Metadata elements

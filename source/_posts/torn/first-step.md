@@ -3,8 +3,9 @@ title: 'When I First Stepped on Torn City'
 date: 2023-10-12 00:00 # updated: 2023-10-12 09:38:32
 toc: true
 categories:
+  - [Torn]
+tags:
   - [Torn City]
-  - [torn]
 article:
   highlight:
     theme: qtcreator_dark

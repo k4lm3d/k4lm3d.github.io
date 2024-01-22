@@ -3,7 +3,8 @@ title: 'Ahoy!'
 date: 2023-10-03 14:22:32
 categories:
   - [CyberCode Online]
-  - [cco]
+tags:
+  - [Shangri-La City]
 article:
   highlight:
     theme: qtcreator_dark
