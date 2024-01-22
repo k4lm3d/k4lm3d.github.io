@@ -9,7 +9,7 @@ tags:
 article:
   highlight:
     theme: qtcreator_dark
-variant: cyberpunk
+variant: default
 sidebar:
   left:
     sticky: true

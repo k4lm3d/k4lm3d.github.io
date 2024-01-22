@@ -98,8 +98,11 @@ pagination_dir: page
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
 include:
+  # Include 'source/_redirects'
+  # - "_redirects"
 exclude:
 ignore:
+  # - "_posts/test.md"
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/

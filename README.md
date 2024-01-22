@@ -117,3 +117,5 @@ git branch -M main
 git remote add origin https://github.com/k4lm3d/k4lm3d.github.io.git
 git push -u origin main
 ```
+
+[Custom Hexo Tag Helpers](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/custom-hexo-tag-helpers/)
