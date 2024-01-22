@@ -6,7 +6,6 @@ toc: true
 categories:
   - [CyberCode Online]
   - [cco]
-permalink: cco/about-me/
 article:
   highlight:
     theme: qtcreator_dark
