@@ -13,7 +13,7 @@ timezone: 'Asia/Tokyo'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://kalmed.inote.me
+url: https://kalmed.inote.me # https://k4lm3d.github.io/cco
 # permalink: ':year/:month/:day/:title/'
 permalink: ':category/:name/' # ':post_title/:hash'
 permalink_defaults:

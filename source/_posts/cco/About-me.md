@@ -39,7 +39,7 @@ widgets:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
   - 
-    position: left
+    position: right
     type: toc
     index: false
   -

@@ -1,6 +1,6 @@
 ---
 title: 'When I First Stepped on Torn City'
-date: 2023-10-12 00:09:32 # updated: 2023-10-12 09:38:32
+date: 2023-10-12 00:00 # updated: 2023-10-12 09:38:32
 toc: true
 categories:
   - [Torn City]
@@ -13,7 +13,7 @@ sidebar:
   left:
     sticky: true
   right:
-    sticky: false
+    sticky: true
 widgets:
   -
     position: left
@@ -38,7 +38,7 @@ widgets:
         icon: fab fa-tiktok
         url: https://tiktok.com/K4LM3D
   - 
-    position: left
+    position: right
     type: toc
     index: false
   -
@@ -52,7 +52,7 @@ Ayo, **K4LM3D** right here. I'm just chilling here at my apartment while writing
 
 <!-- more -->
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg"></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alytt="Torn.com"></a>
 
 ## 🏢 First day, first job
 
@@ -76,4 +76,4 @@ After 12 days in the army, I got a job offer from a **Private Security Firm** to
 
 Oops! I still want to go on but I need to go to work now. 'Till next time 👋
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" /></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" alt="K4LM3D on Torn" /></a>
