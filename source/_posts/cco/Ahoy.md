@@ -4,6 +4,7 @@ date: 2023-10-03 14:22:32
 categories:
   - [CyberCode Online]
   - [cco]
+permalink: cco/ahoy/
 article:
   highlight:
     theme: qtcreator_dark
