@@ -118,4 +118,9 @@ git remote add origin https://github.com/k4lm3d/k4lm3d.github.io.git
 git push -u origin main
 ```
 
-[Custom Hexo Tag Helpers](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/custom-hexo-tag-helpers/)
+### Articles
+- [Custom Hexo Tag Helpers](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/custom-hexo-tag-helpers/)
+- [Comment Plugins](https://ppoffice.github.io/hexo-theme-icarus/Plugins/Comment/icarus-user-guide-comment-plugins/)
+  - Disqus
+- [How to update Hexo and Hexo theme properly](https://dandyxu.me/Hexo/How-to-update-Hexo-and-Hexo-theme-properly/)
+  - NPM: Inside the directory, command on terminal: `npm install`
