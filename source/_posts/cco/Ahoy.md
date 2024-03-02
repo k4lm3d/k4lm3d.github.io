@@ -45,7 +45,7 @@ widgets:
     links:
       Play CyberCode Online: https://cybercodeonline.com
       About K4LM3D: /cco/about-me
-      Ukay-ukay: /cco/ukay-ukay
+      Ukay-ukay: /cco/stall
 ---
 
 Name's **K4LM3D**. I'm right here at our headquarters, recycling some items into scraps. Nothing special, just wanna share my journey and my friends' at one of the busiest cities in the continent with y'all.

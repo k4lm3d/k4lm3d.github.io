@@ -44,7 +44,7 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-      Visit my Player Market stall: /cco/ukay-ukay
+      Visit my Player Market stall: /cco/stall
       Check out my posts about CyberCode Online: /categories/cco/
 ---
 

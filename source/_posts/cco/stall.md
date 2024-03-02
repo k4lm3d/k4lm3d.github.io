@@ -9,8 +9,8 @@ tags:
   - [Shangri-La City]
 article:
   highlight:
-    theme: qtcreator_dark
-    clipboard: false
+    theme: qtcreator_dark #xt256, atom-one-light, qtcreator_dark
+    clipboard: true
     fold: unfolded
 variant: cyberpunk
 sidebar:
