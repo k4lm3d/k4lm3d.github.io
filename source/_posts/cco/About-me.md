@@ -1,6 +1,7 @@
 ---
 title: "All About Me Inside of Shangri-La"
-date: 2023-10-03 15:21:50 #updated: 2023-10-11 23:41:50
+date: '2023-10-03 15:21:50'
+updated: '2024-03-04 23:41:50' # '2023-10-11 23:41:50'
 excerpt: "Do you wanna know who is K4LM3D in one of the busiest cities in the continent? Let's get to know her through this post!"
 toc: true
 categories:
@@ -60,8 +61,8 @@ On this post, you will learn about me and the things I do at one of my favorite 
 
 ## 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my old weapons and gears. Please check out my stall called [*"Ukay-ukay"*](/cco/ukay-ukay)
-  + ⛑ Helping our `CyBunnies [BUN]` gang leader, `krolik`, on gathering gang resources
+  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/cco/ukay-ukay)
+  + ⛑ Helping our `CyBunnies [BUN]` current gang leader, `BasedBunny`, and co-leader, `krolik` *(founder and former gang leader)*, on gathering gang resources
 
 ## 🌱 Currently learning...
   + To craft my *tech scraps*, *military ammunition tech parts*, and *medical tech parts* into *hash processors* when it's profitable
@@ -84,8 +85,8 @@ On this post, you will learn about me and the things I do at one of my favorite 
 ## 🤫 TMIs:
   + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder` & `Ain_sel` of `Asterion [AST]`, and we have a group chat called ***ChAin3D*** on Discord
   + 🚩 `Nousagi [NSE]` gang is basically the (un)official Tagalog channel's gang!
-  + 🎈 More friends: `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`, `SickPanel` and `GrimTalker` of `CyberPyschos [0_O]`, `Khaelent`, ~~`Nyxll`~~, ~~`RSTwinBlade`~~
-  + 🤍 R.I.P.: `King_of_kings` *<small>(the real one)</small>*
+  + 🎈 More friends: `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`, `SickPanel` and `GrimTalker` of `CyberPyschos [0_O]`, `Khaelent`, `Nyxll`, `RSTwinBlade`
+  + 🤍 R.I.P.: `King_of_kings` *<small>(the real one, his best friend uses his account now)</small>*
 
 ## 💬 Ask me about...
   + How to play CCO?
@@ -101,4 +102,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + Through Discord: If you're on <a href="https://discord.ggJREx8xz" target="_blank">CCO's Official Discord</a>, you can find me at `#filipino` channel
   + On my social media pages/accounts: Facebook, Instagram and Twitter accounts
 
-*<small>Last updated on 2023-10-11</small>*
+___
+*<small>Last updated on 2024-03-04</small>*
+*<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
+*<small>Crossed out names are deleted gangs</small>*
