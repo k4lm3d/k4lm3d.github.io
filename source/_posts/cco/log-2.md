@@ -2,7 +2,7 @@
 title: 'Log #2'
 # date: '2023-04-11 17:02:35'
 date: '2022-01-02 13:31:44'
-updated: '2023-06-07 15:02:01'
+# updated: '2023-06-07 15:02:01'
 excerpt: "I don’t really know what I should do. Before we met, my mind was a bit messed up."
 categories:
   - [CyberCode Online]

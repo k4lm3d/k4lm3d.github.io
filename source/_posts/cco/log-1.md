@@ -2,7 +2,7 @@
 title: 'Log #1'
 # date: '2023-03-30 00:00:00'
 date: '2022-01-01 00:00:00'
-updated: '2023-06-07 14:39:58' # updated:'2024-01-22 20:40:30'
+# updated: '2023-06-07 14:39:58' # updated:'2024-01-22 20:40:30'
 excerpt: 'I remembered how they invited me to join their gang and welcomed me so happily. I was a novice with no friends back then, so I was really glad to talk to them.'
 categories:
   - [CyberCode Online]

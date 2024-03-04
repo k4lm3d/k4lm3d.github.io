@@ -1,7 +1,7 @@
 ---
 title: "Log #3"
 date: "2022-07-02 23:53:36"
-updated: "2024-02-21 23:53:36"
+# updated: "2024-02-21 23:53:36"
 excerpt: "I apologize for not writing again. A lot of things happened. I'll just continue from where I left off on my second log."
 categories:
   - [CyberCode Online]

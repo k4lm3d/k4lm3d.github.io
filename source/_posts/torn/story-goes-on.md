@@ -53,7 +53,7 @@ widgets:
 
 Hello again, citizens of Torn! If you’re reading this, I just want to say thank you for visiting my blog ^.^
 
-It’s been awhile since my [first post](/torn/first-step) about my journey in Torn City, and a lot of things happened during those times since I was away. In this post, we will be doing an update about my work, studies, and so on. If you haven’t read my previous post yet, I highly recommend that you read it first because there’s going to be a lot of references in that post. If you’ve already read it, then let’s go!
+It’s been awhile since my [first post](/torn/first-step) about my journey in Torn City, and a lot of things happened during those times I am away. In this post, we will be doing an update about my work, studies, and so on. If you haven’t read my previous post yet, I highly recommend that you read it first because there’s going to be a lot of references in that post. If you’ve already read it, then let’s go!
 
 ## 🤼 Join a faction and find new friends
 Last year, on October 14, two days after I published my first Torn post, I received a message from **Will**. It says that they’re recruiting a bunch of people for their factions. It’s up to us if we join or not. If I join, I have to choose from a list of factions, and I chose ***Orange Chocolate Winter***. You may ask why. It is because there are only two people in there at that time, and I want to start with only a few people in a group. Right now, we have 11 people in the faction (including me). They are such welcoming, understanding, and helpful people. And being in a faction is really a blessing because we have a faction bank where we can deposit money and stuff and withdraw or borrow from it. We also help each other during fights, wars, etc.
