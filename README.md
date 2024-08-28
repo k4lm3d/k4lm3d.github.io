@@ -109,7 +109,6 @@ npx hexo clean # local server
 npx hexo deploy # local server
 
 npx hexo server # local server
-
 ```
 
 ```bash
@@ -130,5 +129,5 @@ git push -u origin main
 
 ### Free Sub-Domains
 - `k4lm3d.github.io` - [GitHub Pages](https://pages.github.com)
-- `kalmed.inote.me` - [FreeDNS](https://freedns.afraid.org)
+- ~~`kalmed.inote.me` - [FreeDNS](https://freedns.afraid.org)~~
 - `kalmed.localplayer.dev` - [FreeDomains](https://freedoamins.org)
