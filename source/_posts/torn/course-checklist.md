@@ -1,6 +1,7 @@
 ---
 title: Course Checklist
 date: '2024-03-04 11:26:54'
+updated: '2024-08-29 17:28:54'
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
 toc: true
 categories:
@@ -59,7 +60,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - `BIO2390` : Chromosomes And Gene Functions
   - [ ] `BIO2400` : Forensic Science
   - [ ] `BIO2410` : Anatomy
-  - [ ] `BIO2127` : **Intravenous Therapy** *(currently taking)*
+  - [x] `BIO2127` : **Intravenous Therapy**
 - [ ] `BIO3420` : Bachelor Of Biology
 
 ### Business
@@ -93,17 +94,19 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 ### Computer Science
 - [x] `CMT1520` : Introduction To Computing
   - [x] `CMT2230` : Web Design And Development
-  - [ ] `CMT2530` : Intermediate Programming
+  - [ ] `CMT2530` : Intermediate Programming *(currently taking)*
     - [ ] `CMT2560` : Algorithms And Advanced Programming
+    - [ ] `CMT2130` : Web Security And Penetration Testing **[New]**
+    - [ ] `CMT2131` : Automated Data Mining & Processing **[New]**
   - [ ] `CMT2540` : Networking
     - [ ] `CMT2610` : Computer Security And Defense
   - `CMT2550` : Computer Repair
-  - `CMT2570` : Fundamentals Of Computer Architecture
-    - `CMT2128` : Overclocking
-    - `CMT2129` : Advanced Overclocking
-  - [ ] `CMT2580` : Software Engineering
-  - `CMT2590` : Quantum Computing
-  - [ ] `CMT2600` : Natural Language Engineering
+  - [x] `CMT2570` : Fundamentals Of Computer Architecture
+    - [x] `CMT2128` : Overclocking
+      - [x] `CMT2129` : Advanced Overclocking
+  - [x] `CMT2580` : Software Engineering
+  - [x] `CMT2590` : Quantum Computing
+  - [x] `CMT2600` : Natural Language Engineering
 - [ ] `CMT3620` : Bachelor Of Computer Science
 
 ### General Studies
@@ -150,12 +153,12 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `LAW2930` : Administrative Law
   - `LAW2940` : Commercial And Consumer Law
   - `LAW2950` : Family Law
-  - `LAW2960` : Labor Law
+  - [x] `LAW2960` : Labor Law
   - [ ] `LAW2970` : Social And Economic Law
   - [ ] `LAW2980` : Use Of Force In International Law
   - [ ] `LAW2990` : International Human Rights
   - [ ] `LAW2100` : Media Law
-  - `LAW2101` : Revenue Law
+  - [x] `LAW2101` : Revenue Law
 - [ ] `LAW3102` : Bachelor Of Law
 
 ### Mathematics
@@ -172,18 +175,19 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [ ] `MTH3330` : Bachelor Of Mathematics
 
 ### Psychology
-- [ ] `PSY1630` : Introduction To Psychology
+- [x] `PSY1630` : Introduction To Psychology
   - [ ] `PSY2640` : Memory And Decision
   - [ ] `PSY2650` : Brain And Behaviour
   - [ ] `PSY2660` : Quantitative Methods In Psychology
   - [ ] `PSY2670` : Applied Decision Methods
   - [ ] `PSY2680` : Attention And Awareness
+  - [ ] `PSY2132` Intrapersonal Dynamics **[New]**
 - [ ] `PSY3690` : Bachelor Of Psychological Sciences
 
 ### Self Defence
 - [x] `DEF1700` : Introduction To Self Defense
   - [ ] `DEF2710` : Judo
-  - [ ] `DEF2720` : Kick Boxing
+  - [x] `DEF2720` : Kick Boxing
   - [ ] `DEF2730` : Krav Maga
   - [ ] `DEF2740` : Jujitsu
   - [ ] `DEF2750` : Tae Kwon Do
@@ -203,6 +207,6 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [ ] `SPT3510` : Bachelor Of Sports Science
 
 ___
-<!-- *<small>Last updated on 2023-10-11</small>* -->
+*<small>Last updated on 2024-08-29</small>*
 *<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
 *<small>List items without checkboxes are either I'm not taking or is not in my priority to take first</small>*
