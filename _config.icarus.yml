@@ -22,28 +22,28 @@ head:
       # -
       #   src: icon/logo.ico
       #   sizes: 72x72 96x96 128x128 256x256
-  open_graph:
-    title: 
-    type: blog
-    url: 
-    image: 
-    site_name: 
-    author: 
-    description: 
-    twitter_card: 
-    twitter_id: 
-    twitter_site: 
-    google_plus: 
-    fb_admins: 
-    fb_app_id: 
-  structured_data:
-    title: 
-    description: 
-    url: 
-    author: 
-    image: 
-    publisher: 
-    publisher_logo: 
+  # open_graph:
+  #   title: 
+  #   type: blog
+  #   url: 
+  #   image: 
+  #   site_name: 
+  #   author: 
+  #   description: 
+  #   twitter_card: 
+  #   twitter_id: 
+  #   twitter_site: 
+  #   google_plus: 
+  #   fb_admins: 
+  #   fb_app_id: 
+  # structured_data:
+  #   title: 
+  #   description: 
+  #   url: 
+  #   author: 
+  #   image: 
+  #   publisher: 
+  #   publisher_logo: 
   meta:
     - name=theme-color;content=#91bf24
     - name=generator;content="Hexo 4.2.0"
@@ -51,7 +51,8 @@ head:
 navbar:
   menu: 
     Home: /
-    About: /about
+    About: /about/
+    Ideas: /ideas/
   links:
     Github:
       icon: fab fa-github
@@ -121,7 +122,7 @@ widgets:
     location: localhost
     avatar: /images/avatars/ReadyPlayerMe-K4LM3D.png
     avatar_rounded: true
-    gravatar: 
+    # gravatar: 
     follow_link: # https://github.com/K4LM3D
     social_links:
       Facebook:
@@ -143,28 +144,28 @@ widgets:
 plugins:
   animejs: true
   back_to_top: true
-  baidu_analytics:
-    tracking_id: 
-  bing_webmaster:
-    tracking_id: 
-  busuanzi: false
-  cnzz:
-    id: 
-    web_id: 
-  gallery: false
-  google_analytics:
-    tracking_id: 
-  hotjar:
-    site_id: 
+  # baidu_analytics:
+  #   tracking_id: 
+  # bing_webmaster:
+  #   tracking_id: 
+  # busuanzi: false
+  # cnzz:
+  #   id: 
+  #   web_id: 
+  gallery: true
+  # google_analytics:
+  #   tracking_id: 
+  # hotjar:
+  #   site_id: 
   katex: false
   mathjax: false
   outdated_browser: false
   progressbar: true
-  statcounter:
-    project: 
-    security: 
-  twitter_conversion_tracking:
-    pixel_id: 
+  # statcounter:
+  #   project: 
+  #   security: 
+  # twitter_conversion_tracking:
+  #   pixel_id: 
 providers:
   cdn: jsdelivr
   fontcdn: google
