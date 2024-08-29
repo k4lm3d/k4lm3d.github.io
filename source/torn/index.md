@@ -51,7 +51,7 @@ widgets:
 
 Torn is a massive multiplayer game with thousands of active players around the world. Join them, fight them, befriend them, marry them, gamble against them, trade with them, compete with them, war alongside them. Whatever you do - do it now!
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alytt="Torn.com"></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alt="Torn.com" /></a>
 
 <a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" /></a>
 
