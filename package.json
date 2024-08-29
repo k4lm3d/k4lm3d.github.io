@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "k4lm3d-gpw",
+  "version": "3.3.3",
   "private": true,
   "scripts": {
     "build": "hexo generate",

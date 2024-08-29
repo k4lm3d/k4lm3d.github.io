@@ -2,10 +2,13 @@
 
 Welcome to my gamer profile website! This is **K4LM3D**.
 
+<!-- Previous Directories: `gamer-profile`, `kalmed-gaming` -->
+
 ---
 
 # Hexo
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+This is a [Hexo](https://hexo.io/) website. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 
@@ -43,15 +46,22 @@ More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 
 ___
 
+# Icarus
 
+Hexo Theme: **Icarus** ([Documentation](https://ppoffice.github.io/hexo-theme-icarus/))
 
-# To create a new post or a new page, you can run the following command:
+## Create a new Post or a new Page
 
-`$ hexo new [layout] <title>`
+You can run the following command:
 
-post is the default layout, but you can supply your own. You can change the default layout by editing the `default_layout` setting in `_config.yml`.
+```bash
+$ hexo new [layout] <title>
+```
+
+Post is the default layout, but you can supply your own. You can change the default layout by editing the `default_layout` setting in `_config.yml`.
 
 ## Layout
+
 There are three default layouts in Hexo: `post`, `page` and `draft`. Files created by each of them is saved to a different path. Newly created posts are saved to the `source/_posts` folder.
 
 **Layout**  **Path**
@@ -60,6 +70,7 @@ There are three default layouts in Hexo: `post`, `page` and `draft`. Files creat
 `draft`   	`source/_drafts`
 
 ## Drafts
+
 Previously, we mentioned a special layout in Hexo: `draft`. Posts initialized with this layout are saved to the `source/_drafts` folder. You can use the publish command to move drafts to the `source/_posts` folder. publish works in a similar way to the new command.
 
 `$ hexo publish [layout] <title>`
@@ -67,6 +78,7 @@ Previously, we mentioned a special layout in Hexo: `draft`. Posts initialized wi
 Drafts are not displayed by default. You can add the `--draft` option when running Hexo or enable the `render_drafts` setting in `_config.yml` to render drafts.
 
 ## Scaffolds
+
 When creating posts, Hexo will build files based on the corresponding file in `scaffolds` folder. For example:
 
 `$ hexo new photo "My Gallery"`
@@ -81,11 +93,14 @@ When you run this command, Hexo will try to find `photo.md` in the `scaffolds` f
 
 ___
 
+# Installation
+
 Install Hexo via Node.js: `npm install hexo`
 
 Terminal: `npx hexo <command>`
 
 ## Windows 10 Setup
+
 Guide: https://hexo.io/docs/setup
 
 ```bash
@@ -105,11 +120,15 @@ $ npm install hexo-deployer-git --save
 Guide: https://hexo.io/docs/github-pages
 
 ```bash
-npx hexo clean # local server
-npx hexo deploy # local server
+# local server
+npx hexo clean
 
-npx hexo server # local server
+npx hexo deploy # Creates static files
+
+npx hexo server
 ```
+
+## Deploy to GitHub
 
 ```bash
 git init
@@ -121,6 +140,7 @@ git push -u origin main
 ```
 
 ### Articles
+
 - [Custom Hexo Tag Helpers](https://ppoffice.github.io/hexo-theme-icarus/uncategorized/custom-hexo-tag-helpers/)
 - [Comment Plugins](https://ppoffice.github.io/hexo-theme-icarus/Plugins/Comment/icarus-user-guide-comment-plugins/)
   - Disqus
@@ -130,4 +150,4 @@ git push -u origin main
 ### Free Sub-Domains
 - `k4lm3d.github.io` - [GitHub Pages](https://pages.github.com)
 - ~~`kalmed.inote.me` - [FreeDNS](https://freedns.afraid.org)~~
-- `kalmed.localplayer.dev` - [FreeDomains](https://freedoamins.org)
+- `kalmed.localplayer.dev` - ~~[FreeDomains](https://freedoamins.org)~~ [Open Domains](https://open-domains.net) **(soon)**
