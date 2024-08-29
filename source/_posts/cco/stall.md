@@ -4,13 +4,14 @@ date: 2023-10-03 17:14:27
 updated: 2023-10-11 23:41:50
 excerpt: "Gears For Sale at Player's Market on CyberCode Online by K4LM3D"
 toc: true
+draft: true
 categories:
   - [CyberCode Online]
 tags:
   - [Shangri-La City]
 article:
   highlight:
-    theme: qtcreator_dark #xt256, atom-one-light, qtcreator_dark
+    theme: xt256 # xt256, atom-one-light, qtcreator_dark
     clipboard: true
     fold: unfolded
 variant: cyberpunk
