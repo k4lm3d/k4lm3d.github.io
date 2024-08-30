@@ -151,3 +151,13 @@ git push -u origin main
 - `k4lm3d.github.io` - [GitHub Pages](https://pages.github.com)
 - ~~`kalmed.inote.me` - [FreeDNS](https://freedns.afraid.org)~~
 - `kalmed.localplayer.dev` - ~~[FreeDomains](https://freedoamins.org)~~ [Open Domains](https://open-domains.net) **(soon)**
+
+#### Alerts
+
+```html
+<article class="message message-immersive is-primary">
+  <div class="message-body">
+    <i class="fas fa-globe-asia mr-2"></i> text <a href="{% post_path zh-CN/FAQ %}">link</a>
+  </div>
+</article>
+```
