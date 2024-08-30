@@ -1,10 +1,9 @@
 ---
-title: 'Online Ukay-ukay'
+title: 'Remote Stall'
 date: 2023-10-03 17:14:27
-updated: 2023-10-11 23:41:50
+updated: 2024-08-29 03:29:30
 excerpt: "Gears For Sale at Player's Market on CyberCode Online by K4LM3D"
 toc: true
-draft: true
 categories:
   - [CyberCode Online]
 tags:
@@ -14,7 +13,7 @@ article:
     theme: xt256 # xt256, atom-one-light, qtcreator_dark
     clipboard: true
     fold: unfolded
-    hljs: true
+    # hljs: true
 variant: cyberpunk
 sidebar:
   left:
@@ -56,6 +55,10 @@ widgets:
       About K4LM3D: /cco/about-me
 ---
 
+Since the items inside the my stall at the player's market (in-game) won't last long, I've created a remote tunnel connection to access and sell my items. Hope you find something valuable here!
+
+<!-- more -->
+
 ## 📢 Info
 
 `[SYSTEM]`
@@ -77,122 +80,98 @@ widgets:
 + UPGRADES SLOT: 0
 {% endcodeblock %} -->
 
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
+
 ## 🛒 Items
 
 ![Buy Now!](/images/gifs/BUY_NOW.gif)
 
 
-> {% codeblock "Lv. 126 Legendary Honor's Brutal Pistol Of Stunning" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 126
-+   EQUIPMENT: Primary Weapon
-+   MARK: Lethal
-+   STAT:
--     DAMAGE: 22427
--     STUN: 14
-+   UPGRADES SLOT: 3
-{% endcodeblock %}
+> ### Lv. 126 Legendary Primary Weapon Stun +14
+> UPGRADES SLOT: 3
+> PRICE: --- BTC
+> 
+> ![Legendary Primary Weapon Lv.126 Stun+14 Lethal](/games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun14-Lethal_CyberCode_Online.jpg)
 
-> {% codeblock "Lv. 122 Legendary Engraved Reforged Sniper Rifle Of Crit Chance" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 122
-+   EQUIPMENT: Special Weapon
-+   MARK: Makeshift
-+   STAT:
--     DAMAGE: 27459
--     CRIT: 24
-+   UPGRADES SLOT: 2
-{% endcodeblock %}
+<!-- <img src="/games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun+14-Lethal_CyberCode_Online.jpg" alt="Legendary Primary Weapon Lv.126 Stun+14 Lethal" /> -->
 
-> {% codeblock "Lv. 129 Legendary Whistling Savage Launcher Of Crit Chance" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 129
-+   EQUIPMENT: Destructive Weapon
-+   MARK: Makeshift
-+   STAT:
--     DAMAGE: 47013
--     CRIT: 24
-+   UPGRADES SLOT: 2
-{% endcodeblock %}
+<!-- {% img /games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun+14-Lethal_CyberCode_Online.jpg "Legendary Primary Weapon Lv.126 Stun+14 Lethal" %} -->
 
-> {% codeblock "Lv. 125 Legendary Camouflage Underwear Of Evasion" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 125
-+   EQUIPMENT: Lower Armor
-+   MARK: Disruptor
-+   STAT:
--     HEALTH: 39691
--     ARMOR: 2206
--     EVADE: 13
-+   UPGRADES SLOT: 3
-{% endcodeblock %}
+> ### Lv. 122 Legendary Special Weapon Crit Chance +24
+> UPGRADES SLOT: 2
+> PRICE: --- BTC
+> 
+> ![Legendary Special Weapon Lv.122 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-SpecialWeapon-LV122-CritChance24-Makeshift_CyberCode_Online.jpg)
 
-___
+
+> ### Lv. 129 Legendary Destructive Weapon Crit Chance +24
+> UPGRADES SLOT: 2
+> PRICE: --- BTC
+> 
+> ![Legendary Destructive Weapon Lv.129 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-DestructiveWeapon-LV129-CritChance24-Makeshift_CyberCode_Online.jpg)
+
+
+> ### Lv. 125 Legendary Lower Armor Evation +13
+> UPGRADES SLOT: 3
+> PRICE: --- BTC
+> 
+> ![Legendary Lower Armor Lv.125 Evation+13 Disruptor](/games-images/cco/goods/Legendary-LowerArmor-LV125-Evasion13-Disruptor_CyberCode_Online.jpg)
+
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
 
 
 ## 📉 [on] Sale
 
 ![Sale](/images/gifs/SALE.gif)
 
-> {% codeblock "Lv. 125 Legendary Massive Ritual Disruptor of Crit Chance" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 125
-+   EQUIPMENT: Destructive Weapon
-+   MARK: Lethal
-+   STAT:
--     DAMAGE: 44844
--     CRIT: 15
-+   UPGRADES SLOT: 2
-{% endcodeblock %}
 
-> {% codeblock "Lv. 125 Legendary Bike Helmet With Pockets" lang:diff  %}
-+   TEIR: Legendary
-+   LEVEL: 125
-+   EQUIPMENT: Helmet
-+   MARK: Disruptor
-+   STAT:
--     HEALTH: 19846
--     ARMOR: 1103
--     POCKET: 5
-+   UPGRADES SLOT: 2
-{% endcodeblock %}
+> ### Lv. 125 Legendary Destructive Weapon Crit Chance +15
+> UPGRADES SLOT: 2
+> PRICE: --- BTC
+> 
+> ![Legendary Destructive Weapon Lv.125 CritChance+15 Lethal](/games-images/cco/goods/Legendary-DestructiveWeapon-LV125-CritChance15-Lethal_CyberCode_Online.jpg)
 
-> {% codeblock "Lv. 124 Legendary Kimono With Pockets" lang:diff  %}
-+   TEIR: Legendary
-+   LEVEL: 124
-+   EQUIPMENT: Upper Armor
-+   MARK: Lethal
-+   STAT:
--     HEALTH: 48822
--     ARMOR: 2713
--     POCKET: 5
-+   UPGRADES SLOT: 3
-{% endcodeblock %}
 
-> {% codeblock "Lv. 123 Legendary Radiation Suit Top Of Crit Chance" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 123
-+   EQUIPMENT: Upper Armor
-+   MARK: Disruptor
-+   STAT:
--     HEALTH: 48038
--     ARMOR: 2669
--     CRIT: 4
-+   UPGRADES SLOT: 3
-{% endcodeblock %}
+> ### Lv. 125 Legendary Helmet Pocket +5
+> UPGRADES SLOT: 2
+> PRICE: --- BTC
+> 
+> ![Legendary Helmet Lv.125 Pocket+5 Disruptor](/games-images/cco/goods/Legendary-Helmet-LV126-Pockets5-Disruptor_CyberCode_Online.jpg)
 
-> {% codeblock "Lv. 125 Legendary Cleats With Pockets" lang:diff  %}
-+   TIER: Legendary
-+   LEVEL: 125
-+   EQUIPMENT:  Boots
-+   MARK: Makeshift
-+   STAT:
--     HEALTH: 9923
--     ARMOR: 552
--     POCKET: 5
-+   UPGRADES SLOT: 2
-{% endcodeblock %}
+
+> ### Lv. 124 Legendary Upper Armor Pocket +5
+> UPGRADES SLOT: 3
+> PRICE: --- BTC
+> 
+> ![Legendary Upper Armor Lv.124 Pocket+5 Lethal](/games-images/cco/goods/Legendary-UpperArmor-LV124-Pockets5-Lethal_CyberCode_Online.jpg)
+
+
+> ### Lv. 123 Legendary Upper Armor Crit Chance +4
+> UPGRADES SLOT: 3
+> PRICE: --- BTC
+> 
+> ![Legendary Upper Armor Lv.123 CritChance+4 Disruptor](/games-images/cco/goods/Legendary-UpperArmor-LV125-CritChance4-Disruptor_CyberCode_Online.jpg)
+
+
+> ### Lv. 125 Legendary Boots Pocket +5
+> UPGRADES SLOT: 2
+> PRICE: --- BTC
+> 
+> ![Legendary Boots Lv.125 Pocket+5 Makeshift](/games-images/cco/goods/Legendary-Boots-LV125-Pockets5-Makeshift_CyberCode_Online.jpg)
 
 ___
-*<small>Last updated on 2023-10-11</small>*
-*<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
+*<small>Last updated on 2024-08-29</small>*
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
