@@ -51,6 +51,12 @@ Although Torn is one of the most dangerous cities in the world, **Education is s
 
 In this post, I will show you the list of courses I taken up, currently taking, and will be taking.
 
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
+
 ### Biology
 - [x] `BIO1340` : Introduction To Biochemistry
   - [ ] `BIO2350` : Evolution
@@ -60,7 +66,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - `BIO2390` : Chromosomes And Gene Functions
   - [ ] `BIO2400` : Forensic Science
   - [ ] `BIO2410` : Anatomy
-  - [x] `BIO2127` : **Intravenous Therapy**
+  - [x] `BIO2127` : Intravenous Therapy
 - [ ] `BIO3420` : Bachelor Of Biology
 
 ### Business
@@ -81,20 +87,20 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 ### Combat Training
 - [x] `CBT1780` : Introduction To Combat
   - [ ] `CBT2790` : Military Psychology
-  - `CBT2800` : Study Of War And Technology
-  - `CBT2810` : Study Of Society And Warfare
-  - `CBT2820` : Study Of Machine Guns
-  - `CBT2830` : Study Of Submachine Guns
+  - [ ] `CBT2800` : Study Of War And Technology*
+  - [ ] `CBT2810` : Study Of Society And Warfare*
+  - [ ] `CBT2820` : Study Of Machine Guns*
+  - [ ] `CBT2830` : Study Of Submachine Guns*
   - [ ] `CBT2840` : Study Of Pistols
   - [ ] `CBT2850` : Study Of Rifles
-  - `CBT2860` : Study Of Heavy Artillery
+  - [ ] `CBT2860` : Study Of Heavy Artillery*
   - [ ] `CBT2125` : Study Of Shotguns
 - [ ] `CBT3870` : Bachelor Of Military Arts And Science
 
 ### Computer Science
 - [x] `CMT1520` : Introduction To Computing
   - [x] `CMT2230` : Web Design And Development
-  - [ ] `CMT2530` : Intermediate Programming *(currently taking)*
+  - [ ] `CMT2530` : **Intermediate Programming** *(currently taking)*
     - [ ] `CMT2560` : Algorithms And Advanced Programming
     - [ ] `CMT2130` : Web Security And Penetration Testing **[New]**
     - [ ] `CMT2131` : Automated Data Mining & Processing **[New]**
@@ -112,15 +118,15 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 ### General Studies
 - [ ] `GEN1112` : Introduction To General Studies
   - [ ] `GEN2113` : Driving License
-  - `GEN2114` : Astronomy
-  - `GEN2115` : Mechanical Arts
+  - [ ] `GEN2114` : Astronomy*
+  - [ ] `GEN2115` : Mechanical Arts*
   - [ ] `GEN2116` : General Mechanics
   - [ ] `GEN2117` : Basic English
   - [ ] `GEN2118` : Creative Writing
   - [ ] `GEN2119` : General Science
   - [ ] `GEN2120` : Survival Skills
-  - `GEN2122` : Newtonian Physics
-  - `GEN2123` : Ivory Crafting
+  - [ ] `GEN2122` : Newtonian Physics*
+  - [ ] `GEN2123` : Ivory Crafting*
 - [ ] `GEN3121` : Bachelor Of General Studies
 
 ### Health & Fitness
@@ -131,18 +137,18 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `HAF2107` : Yoga
   - [ ] `HAF2108` : Swimming
   - [ ] `HAF2109` : Marathon Training
-  - `HAF2110` : Sailing
+  - [ ] `HAF2110` : Sailing*
 - [ ] `HAF3111` : Bachelor Of Health Sciences
 
 ### History
 - [ ] `HIS1140` : Introduction To History
-  - `HIS2150` : Aims & Methods In Archaeology
+  - [ ] `HIS2150` : Aims & Methods In Archaeology
   - [ ] `HIS2160` : Ancient Japanese History
   - [ ] `HIS2170` : Medieval History
-  - `HIS2180` : Medieval Archaeology
-  - `HIS2190` : South Asian Archaeology
-  - `HIS2200` : Egyptian Archaeology
-- `HIS3210` : Bachelor Of History
+  - [ ] `HIS2180` : Medieval Archaeology
+  - [ ] `HIS2190` : South Asian Archaeology
+  - [ ] `HIS2200` : Egyptian Archaeology
+- [ ] `HIS3210` : Bachelor Of History*
 
 ### Law
 - [x] `LAW1880` : Introduction To Law
@@ -151,8 +157,8 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `LAW2910` : Property Law
   - [ ] `LAW2920` : Criminal Law
   - [ ] `LAW2930` : Administrative Law
-  - `LAW2940` : Commercial And Consumer Law
-  - `LAW2950` : Family Law
+  - [ ] `LAW2940` : Commercial And Consumer Law*
+  - [ ] `LAW2950` : Family Law*
   - [x] `LAW2960` : Labor Law
   - [ ] `LAW2970` : Social And Economic Law
   - [ ] `LAW2980` : Use Of Force In International Law
@@ -167,10 +173,10 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `MTH2250` : Intermediate Mathematics
   - [ ] `MTH2260` : Geometry
   - [ ] `MTH2320` : Geometry 2
-  - `MTH2270` : Algebra
+  - [ ] `MTH2270` : Algebra*
   - [ ] `MTH2280` : Probability
-  - `MTH2290` : Trigonometry
-  - `MTH2300` : Calculus
+  - [ ] `MTH2290` : Trigonometry*
+  - [ ] `MTH2300` : Calculus*
   - [ ] `MTH2310` : Discrete Mathematics
 - [ ] `MTH3330` : Bachelor Of Mathematics
 
@@ -200,7 +206,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `SPT2450` : Physiological Testing
   - [ ] `SPT2460` : Human Movement Analysis
   - [x] `SPT2470` : Bio Mechanical Determinants Of Skill
-  - `SPT2480` : Sports Medicine
+  - [ ] `SPT2480` : Sports Medicine*
   - [x] `SPT2490` : Nutritional Science
   - [x] `SPT2500` : Analysis And Performance
   - `SPT2126` : Sports Administration
@@ -208,5 +214,8 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 
 ___
 *<small>Last updated on 2024-08-29</small>*
-*<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
-*<small>List items without checkboxes are either I'm not taking or is not in my priority to take first</small>*
+<article class="message is-primary">
+  <div class="message-body">
+    <small>*Courses that either I'm not taking or is not in my priority to take first</small>
+  </div>
+</article>
