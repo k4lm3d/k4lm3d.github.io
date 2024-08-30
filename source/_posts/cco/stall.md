@@ -14,6 +14,7 @@ article:
     theme: xt256 # xt256, atom-one-light, qtcreator_dark
     clipboard: true
     fold: unfolded
+    hljs: true
 variant: cyberpunk
 sidebar:
   left:
