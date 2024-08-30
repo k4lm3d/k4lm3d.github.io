@@ -49,7 +49,7 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-      Ukay-ukay: /cco/ukay-ukay
+      Stall: /cco/stall
 ---
 
 Hi, I am **K4LM3D** */ka:md/*
