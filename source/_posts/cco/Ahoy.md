@@ -44,7 +44,7 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-      About K4LM3D: /cco/about-me
+      About K4LM3D: /cco/About-me
       Stall: /cco/stall
 ---
 

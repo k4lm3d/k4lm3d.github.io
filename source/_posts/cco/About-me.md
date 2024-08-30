@@ -55,13 +55,19 @@ widgets:
 Hi, I am **K4LM3D** */ka:md/*
 On this post, you will learn about me and the things I do at one of my favorite online game, [CyberCode Online](https://cybercodeonline.com) (CCO).
 
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
+
 ## 🗺 My go to places:
   + ⚓ Standby and talks a lot at CCO's **Tagalog channel**
   + 📣 Always waiting at `#events` and `#giveaways` channels on <a href="https://discord.ggJREx8xz" target="_blank">CCO's Official Discord Server</a>
 
 ## 🔭 Currently working on...
   + 🎒 Crafting my `Autonomous Storage Unit (ASU)` backpack
-  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/cco/ukay-ukay)
+  + 🛒 Selling some of my old weapons and gears. Please check out my stall page called [*"Ukay-ukay"*](/cco/stall)
   + ⛑ Helping our `CyBunnies [BUN]` current gang leader, `BasedBunny`, and co-leader, `krolik` *(founder and former gang leader)*, on gathering gang resources
 
 ## 🌱 Currently learning...
@@ -104,5 +110,8 @@ On this post, you will learn about me and the things I do at one of my favorite 
 
 ___
 *<small>Last updated on 2024-03-04</small>*
-*<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
-*<small>Crossed out names are deleted gangs</small>*
+<article class="message is-primary">
+  <div class="message-body">
+    <small>*Crossed out names are deleted gangs</small>
+  </div>
+</article>

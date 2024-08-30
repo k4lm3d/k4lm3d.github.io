@@ -52,10 +52,10 @@ widgets:
     type: links
     links:
       Play CyberCode Online: https://cybercodeonline.com
-      About K4LM3D: /cco/about-me
+      About K4LM3D: /cco/About-me
 ---
 
-Since the items inside the my stall at the player's market (in-game) won't last long, I've created a remote tunnel connection to access and sell my items. Hope you find something valuable here!
+Since the items inside my stall at the player's market (in-game) won't last long, I've created a remote tunnel connection to access and sell my items. Hope you find something valuable here!
 
 <!-- more -->
 
