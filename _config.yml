@@ -51,7 +51,7 @@ highlight:
   auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
   # clipboard: false
   # fold: unfolded
 prismjs:
@@ -103,6 +103,7 @@ include:
 exclude:
 ignore:
   # - "_posts/test.md"
+  - "_posts/cco/stall.md"
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
