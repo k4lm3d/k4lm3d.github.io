@@ -13,6 +13,7 @@ article:
     theme: xt256 # xt256, atom-one-light, qtcreator_dark
     clipboard: true
     fold: unfolded
+    # hljs: true
 variant: cyberpunk
 sidebar:
   left:
@@ -75,6 +76,12 @@ widgets:
 + UPGRADES SLOT: 0
 {% endcodeblock %} -->
 
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
+
 ## 🛒 Items
 
 ![Buy Now!](/images/gifs/BUY_NOW.gif)
@@ -84,7 +91,7 @@ widgets:
 > UPGRADES SLOT: 3
 > PRICE: --- BTC
 > 
-> ![Legendary Primary Weapon Lv.126 Stun+14 Lethal](/games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun+14-Lethal_CyberCode_Online.jpg)
+> ![Legendary Primary Weapon Lv.126 Stun+14 Lethal](/games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun14-Lethal_CyberCode_Online.jpg)
 
 <!-- <img src="/games-images/cco/goods/Legendary-PrimaryWeapon-LV126-Stun+14-Lethal_CyberCode_Online.jpg" alt="Legendary Primary Weapon Lv.126 Stun+14 Lethal" /> -->
 
@@ -94,23 +101,28 @@ widgets:
 > UPGRADES SLOT: 2
 > PRICE: --- BTC
 > 
-> ![Legendary Special Weapon Lv.122 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-SpecialWeapon-LV122-CritChance+24-Makeshift_CyberCode_Online.jpg)
+> ![Legendary Special Weapon Lv.122 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-SpecialWeapon-LV122-CritChance24-Makeshift_CyberCode_Online.jpg)
 
 
 > ### Lv. 129 Legendary Destructive Weapon Crit Chance +24
 > UPGRADES SLOT: 2
 > PRICE: --- BTC
 > 
-> ![Legendary Destructive Weapon Lv.129 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-DestructiveWeapon-LV129-CritChance+24-Makeshift_CyberCode_Online.jpg)
+> ![Legendary Destructive Weapon Lv.129 CritChance+24 Makeshift](/games-images/cco/goods/Legendary-DestructiveWeapon-LV129-CritChance24-Makeshift_CyberCode_Online.jpg)
 
 
 > ### Lv. 125 Legendary Lower Armor Evation +13
 > UPGRADES SLOT: 3
 > PRICE: --- BTC
 > 
-> ![Legendary Lower Armor Lv.125 Evation+13 Disruptor](/games-images/cco/goods/Legendary-LowerArmor-LV125-Evasion+13-Disruptor_CyberCode_Online.jpg)
+> ![Legendary Lower Armor Lv.125 Evation+13 Disruptor](/games-images/cco/goods/Legendary-LowerArmor-LV125-Evasion13-Disruptor_CyberCode_Online.jpg)
 
-___
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
 
 
 ## 📉 [on] Sale
@@ -122,36 +134,40 @@ ___
 > UPGRADES SLOT: 2
 > PRICE: --- BTC
 > 
-> ![Legendary Destructive Weapon Lv.125 CritChance+15 Lethal](/games-images/cco/goods/Legendary-DestructiveWeapon-LV125-CritChance+15-Lethal_CyberCode_Online.jpg)
+> ![Legendary Destructive Weapon Lv.125 CritChance+15 Lethal](/games-images/cco/goods/Legendary-DestructiveWeapon-LV125-CritChance15-Lethal_CyberCode_Online.jpg)
 
 
 > ### Lv. 125 Legendary Helmet Pocket +5
 > UPGRADES SLOT: 2
 > PRICE: --- BTC
 > 
-> ![Legendary Helmet Lv.125 Pocket+5 Disruptor](/games-images/cco/goods/Legendary-Helmet-LV126-Pockets+5-Disruptor_CyberCode_Online.jpg)
+> ![Legendary Helmet Lv.125 Pocket+5 Disruptor](/games-images/cco/goods/Legendary-Helmet-LV126-Pockets5-Disruptor_CyberCode_Online.jpg)
 
 
 > ### Lv. 124 Legendary Upper Armor Pocket +5
 > UPGRADES SLOT: 3
 > PRICE: --- BTC
 > 
-> ![Legendary Upper Armor Lv.124 Pocket+5 Lethal](/games-images/cco/goods/Legendary-UpperArmor-LV124-Pockets+5-Lethal_CyberCode_Online.jpg)
+> ![Legendary Upper Armor Lv.124 Pocket+5 Lethal](/games-images/cco/goods/Legendary-UpperArmor-LV124-Pockets5-Lethal_CyberCode_Online.jpg)
 
 
 > ### Lv. 123 Legendary Upper Armor Crit Chance +4
 > UPGRADES SLOT: 3
 > PRICE: --- BTC
 > 
-> ![Legendary Upper Armor Lv.123 CritChance+4 Disruptor](/games-images/cco/goods/Legendary-UpperArmor-LV125-CritChance+4-Disruptor_CyberCode_Online.jpg)
+> ![Legendary Upper Armor Lv.123 CritChance+4 Disruptor](/games-images/cco/goods/Legendary-UpperArmor-LV125-CritChance4-Disruptor_CyberCode_Online.jpg)
 
 
 > ### Lv. 125 Legendary Boots Pocket +5
 > UPGRADES SLOT: 2
 > PRICE: --- BTC
 > 
-> ![Legendary Boots Lv.125 Pocket+5 Makeshift](/games-images/cco/goods/Legendary-Boots-LV125-Pockets+5-Makeshift_CyberCode_Online.jpg)
+> ![Legendary Boots Lv.125 Pocket+5 Makeshift](/games-images/cco/goods/Legendary-Boots-LV125-Pockets5-Makeshift_CyberCode_Online.jpg)
 
 ___
 *<small>Last updated on 2024-08-29</small>*
-*<small>Information in this post are frequently changed or updated so check this post again for updates</small>*
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
