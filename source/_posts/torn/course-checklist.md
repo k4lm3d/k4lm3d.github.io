@@ -1,7 +1,7 @@
 ---
 title: Course Checklist
 date: '2024-03-04 11:26:54'
-updated: '2024-08-29 17:28:54'
+updated: '2024-09-04 17:00:00' # '2024-08-29 17:28:54'
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
 toc: true
 categories:
@@ -63,7 +63,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `BIO2360` : Intermediate Biochemistry
     - [ ] `BIO2370` : Advanced Biochemistry
   - [ ] `BIO2380` : Fundamentals Of Neurobiology
-  - `BIO2390` : Chromosomes And Gene Functions
+  - [ ] `BIO2390` : Chromosomes And Gene Functions
   - [ ] `BIO2400` : Forensic Science
   - [ ] `BIO2410` : Anatomy
   - [x] `BIO2127` : Intravenous Therapy
@@ -100,13 +100,13 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 ### Computer Science
 - [x] `CMT1520` : Introduction To Computing
   - [x] `CMT2230` : Web Design And Development
-  - [ ] `CMT2530` : **Intermediate Programming** *(currently taking)*
-    - [ ] `CMT2560` : Algorithms And Advanced Programming
+  - [x] `CMT2530` : Intermediate Programming
+    - [ ] `CMT2560` : **Algorithms And Advanced Programming** *(currently taking)*
     - [ ] `CMT2130` : Web Security And Penetration Testing **[New]**
     - [ ] `CMT2131` : Automated Data Mining & Processing **[New]**
   - [ ] `CMT2540` : Networking
     - [ ] `CMT2610` : Computer Security And Defense
-  - `CMT2550` : Computer Repair
+  - [ ] `CMT2550` : Computer Repair
   - [x] `CMT2570` : Fundamentals Of Computer Architecture
     - [x] `CMT2128` : Overclocking
       - [x] `CMT2129` : Advanced Overclocking
@@ -209,7 +209,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `SPT2480` : Sports Medicine*
   - [x] `SPT2490` : Nutritional Science
   - [x] `SPT2500` : Analysis And Performance
-  - `SPT2126` : Sports Administration
+  - [ ] `SPT2126` : Sports Administration
 - [ ] `SPT3510` : Bachelor Of Sports Science
 
 ___
