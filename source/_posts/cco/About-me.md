@@ -1,7 +1,7 @@
 ---
 title: "All About Me Inside of Shangri-La"
 date: '2023-10-03 15:21:50'
-updated: '2024-03-04 23:41:50' # '2023-10-11 23:41:50'
+updated: '2024-09-05 17:37:28' # '2024-03-04 23:41:50' '2023-10-11 23:41:50'
 excerpt: "Do you wanna know who is K4LM3D in one of the busiest cities in the continent? Let's get to know her through this post!"
 toc: true
 categories:
@@ -62,7 +62,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
 </article>
 
 ## 🗺 My go to places:
-  + ⚓ Standby and talks a lot at CCO's **Tagalog channel**
+  + ⚓ Standby and talks a lot at CCO's **Tagalog** channel
   + 📣 Always waiting at `#events` and `#giveaways` channels on <a href="https://discord.ggJREx8xz" target="_blank">CCO's Official Discord Server</a>
 
 ## 🔭 Currently working on...
@@ -82,7 +82,8 @@ On this post, you will learn about me and the things I do at one of my favorite 
   - Suspecious but interesting gang: `[ID▮]` 🙊🙉🙈
   - 🐰 Currently a member of `CyBunnies [BUN]`
 
-    > We love to _**H**.**O**.**P**. (**help other players**)_!
+    > _"We love to **H**.**O**.**P**. (**help other players**)!"_
+    > &mdash;`krolik [BUN]`
 
 ## ⚡ Fun facts:
   + ☕ I need cups of coffee not ***pain aways*™** to heal
@@ -91,8 +92,17 @@ On this post, you will learn about me and the things I do at one of my favorite 
 ## 🤫 TMIs:
   + 👤 My nickname, **Kal**, is given to me by my CCO best friends, `Chief_Marauder` & `Ain_sel` of `Asterion [AST]`, and we have a group chat called ***ChAin3D*** on Discord
   + 🚩 `Nousagi [NSE]` gang is basically the (un)official Tagalog channel's gang!
-  + 🎈 More friends: `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`, `SickPanel` and `GrimTalker` of `CyberPyschos [0_O]`, `Khaelent`, `Nyxll`, `RSTwinBlade`
+  + 🤙 Hommies: `SickPanel [0_O]` *(my kawan)*
+  + 🤗 More best friends:  `SkaE_17` and `En_Roise` of `Nousagi [NSG]`, `ZeaZ` of `Elysian [EYN]`
+  + 🦜 `En_Roise`, `ZeaZ`, `Chief_Marauder` and me have a different group chat called ***C4ZE*** with out *Arclight City* profiles on Discord
   + 🤍 R.I.P.: `King_of_kings` *<small>(the real one, his best friend uses his account now)</small>*
+  + 🎈 More friends**: `Punxi` and `GrimTalker` of `CyberPyschos [0_O]`, `Khaelent`, ~`Nyxll`~, `RSTwinBlade`, ~`dreyyy [TOT]`~, `Juso`
+
+    > `DexterHuang [DEV]`: *CyberCode Online*
+    > <strong>`Khaelent [0_O]`: *CyberChat Online*</strong>
+
+    <!-- > *"Cyber<strong>Chat</strong> Online"* -->
+    <!-- > &mdash;`Khaelent` -->
 
 ## 💬 Ask me about...
   + How to play CCO?
@@ -109,9 +119,11 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + On my social media pages/accounts: Facebook, Instagram and Twitter accounts
 
 ___
-*<small>Last updated on 2024-03-04</small>*
+*<small>Last updated on 2024-09-05</small>*
 <article class="message is-primary">
   <div class="message-body">
-    <small>*Crossed out names are deleted gangs</small>
+    <small>*Crossed out names are dissolved gangs or gone players</small>
+    <br>
+    <small>**If you are my friend but not mentioned here, I apoligize. Maybe I have a poor memory or we are not that close enough</small>
   </div>
 </article>
