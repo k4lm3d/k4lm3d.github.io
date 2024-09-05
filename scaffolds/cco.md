@@ -4,22 +4,22 @@ date: {{ date }}
 cover:
 thumbnail:
 updated:
-article:
-  highlight:
-    theme: qtcreator_dark
 excerpt:
+permalink:
 comments:
 layout:
 source:
 photos:
 lang:
-tags:
 categories:
-  - CyberCode Online
-  - cco
-permalink:
+  - [CyberCode Online]
+tags:
+  - [Shangri-La City]
 
 toc: false
+article:
+  highlight:
+    theme: qtcreator_dark
 variant: cyberpunk
 sidebar:
   left:

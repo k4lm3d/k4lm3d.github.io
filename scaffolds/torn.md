@@ -4,22 +4,22 @@ date: {{ date }}
 cover:
 thumbnail:
 updated:
-article:
-  highlight:
-    theme: atom-one-dark
 excerpt:
+permalink:
 comments:
 layout:
 source:
 photos:
 lang:
-tags:
 categories:
-  - Torn City
-  - torn
-permalink:
+  - [Torn]
+tags:
+  - [Torn City]
 
 toc: false
+article:
+  highlight:
+    theme: atom-one-dark
 sidebar:
   left:
     sticky: true
