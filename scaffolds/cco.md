@@ -12,9 +12,9 @@ source:
 photos:
 lang:
 categories:
-  - [CyberCode Online]
+  - CyberCode Online
 tags:
-  - [Shangri-La City]
+  - Shangri-La City
 
 toc: false
 article:

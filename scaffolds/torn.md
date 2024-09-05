@@ -12,9 +12,9 @@ source:
 photos:
 lang:
 categories:
-  - [Torn]
+  - Torn
 tags:
-  - [Torn City]
+  - Torn City
 
 toc: false
 article:
