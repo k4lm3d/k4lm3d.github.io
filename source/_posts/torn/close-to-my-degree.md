@@ -3,7 +3,7 @@ title: Close to My Degree
 date: 2024-09-04 18:18:40
 # cover:
 # thumbnail:
-updated:
+updated: 2024-09-05 11:09:20
 excerpt: 'As I sit down to write this, I can hardly believe how close I am to achieving a significant milestone in my life: earning a degree.'
 # comments:
 # layout:
@@ -52,7 +52,7 @@ widgets:
       Play Torn: https://torn.com
 ---
 
-As I sit down to write this, I can hardly believe how close I am to achieving a significant milestone in my life: earning a degree (Bachelor of Computer Science). Today, I started my 9th course under Computer Science education which is CMT2560 a.k.a. "Algorithms And Advanced Programming". With just 147 [torn] days left and only 7 courses to complete, the finish line is finally in sight!
+As I sit down to write this, I can hardly believe how close I am to achieving a significant milestone in my life: earning a degree (Bachelor of Computer Science). Today, I started my 9th course under Computer Science education which is CMT2560 a.k.a. "Algorithms And Advanced Programming". With just 147* [torn] days left and only 7 courses to complete, the finish line is finally in sight!
 
 > ### Computer Science
 > 
@@ -86,3 +86,9 @@ Reflecting on this journey, I am filled with a mix of emotions&mdash;excitement,
 Each course I have taken has contributed to my growth, not just edcationally but personally as well. These skills will undoubtedly serve me well in the future, no matter where my career takes me.
 
 As I embark on these final courses, I am reminded of the importance of staying focused and motivated. It's easy to feel overwhelmed with the end so close, but I am determined to finish strong. I plan to embrace every moment, and make the most of the resources available to me.
+
+<article class="message is-primary">
+  <div class="message-body">
+    <small>*No merit upgrades or passive decreases (See [Education](https://wiki.torn.com/wiki/Education))</small>
+  </div>
+</article>
