@@ -98,8 +98,8 @@ On this post, you will learn about me and the things I do at one of my favorite 
   + 🤍 R.I.P.: `King_of_kings` *<small>(the real one, his best friend uses his account now)</small>*
   + 🎈 More friends**: `Punxi` and `GrimTalker` of `CyberPyschos [0_O]`, `Khaelent`, ~`Nyxll`~, `RSTwinBlade`, ~`dreyyy [TOT]`~, `Juso`
 
-    > `DexterHuang [DEV]`: *CyberCode Online*
-    > <strong>`Khaelent [0_O]`: *CyberChat Online*</strong>
+    > `DexterHuang [DEV]:` *CyberCode Online*
+    > <strong>`Khaelent [0_O]:` *CyberChat Online*</strong>
 
     <!-- > *"Cyber<strong>Chat</strong> Online"* -->
     <!-- > &mdash;`Khaelent` -->
@@ -111,7 +111,7 @@ On this post, you will learn about me and the things I do at one of my favorite 
 ## 🤔 Looking for...
   + ~Gang dungeon buddy~
   + ~Gang to hop on~
-  + Buyers of my old equipments *<small>(Please check them out. I'll give you a good price)</small>*
+  + Buyers of my old equipments *<small>(See <a href="/cco/stall">Remote Stall</a>)</small>*
 
 ## 📫 How to reach me:
   + In-game: Mention me at CCO's Tagalog channel and/or send me a private message

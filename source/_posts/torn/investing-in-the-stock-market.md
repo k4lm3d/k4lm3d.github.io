@@ -58,12 +58,12 @@ Living independently is not easy. I'm studying while making money to support mys
 
 <!-- 💰 Use Money To Buy Points -->
 
-Slowly but surely, I grind and grind to make millions of dollars. I studied about the `Points Market` and then, bought 25 points. I went to haitus for 46 days and then started to grind again.
+Slowly but surely, I grind and grind to make millions of dollars. I studied about the **Points Market** and then, bought 25 points. I went to haitus for 46 days and then started to grind again.
 
 <!-- 🎫 Use Points To Unlock Stock Ticketer -->
 <!-- 📈 Invest In The Stock Market -->
 
-Yesterday, I withdrawed 3 million from `Cayman Island's Bank`, returned home, and bought 60 points from the `Points Market`. I exchanged 50 points for a `Stock Ticker` and I studied about Torn City Stock Exchange. Then today, I bought 400,000+ worth of shares from West Side University.
+Yesterday, I withdrawed 3 million from **Cayman Island's Bank**, returned home, and bought 60 points from the Points Market. I exchanged 50 points for a **Stock Ticker** and I studied about **Torn City Stock Exchange**. Then today, I bought 400,000+ worth of shares from **West Side University**.
 
 <!-- ⛳ Goals -->
 
