@@ -1,5 +1,5 @@
 ---
-title: Course Checklist
+title: My Course Checklist
 date: '2024-03-04 11:26:54'
 updated: '2024-09-04 17:00:00' # '2024-08-29 17:28:54'
 excerpt: "In this post, I will show you the list of courses I taken up, currently taking, and will be taking."
@@ -8,6 +8,7 @@ categories:
   - [Torn]
 tags:
   - [Torn City]
+  - [Education]
 article:
   highlight:
     theme: atom-one-dark

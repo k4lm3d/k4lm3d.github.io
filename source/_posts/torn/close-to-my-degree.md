@@ -1,5 +1,5 @@
 ---
-title: Close to My Degree
+title: I'm So Close to My Degree
 date: 2024-09-04 18:18:40
 # cover:
 # thumbnail:
@@ -18,6 +18,7 @@ categories:
   - [Torn]
 tags:
   - [Torn City]
+  - [Education]
 toc: false
 sidebar:
   left:

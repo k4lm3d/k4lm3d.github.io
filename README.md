@@ -15,7 +15,7 @@ This is a [Hexo](https://hexo.io/) website. Check [documentation](https://hexo.i
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ npx hexo new "My New Post"
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
@@ -23,7 +23,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 ### Run server
 
 ``` bash
-$ hexo server
+$ npx hexo server
 ```
 
 More info: [Server](https://hexo.io/docs/server.html)
@@ -31,7 +31,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 ### Generate static files
 
 ``` bash
-$ hexo generate
+$ npx hexo generate
 ```
 
 More info: [Generating](https://hexo.io/docs/generating.html)
@@ -39,7 +39,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 ### Deploy to remote sites
 
 ``` bash
-$ hexo deploy
+$ npx hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
@@ -55,7 +55,7 @@ Hexo Theme: **Icarus** ([Documentation](https://ppoffice.github.io/hexo-theme-ic
 You can run the following command:
 
 ```bash
-$ hexo new [layout] <title>
+$ npx hexo new [layout] <title>
 ```
 
 Post is the default layout, but you can supply your own. You can change the default layout by editing the `default_layout` setting in `_config.yml`.
@@ -73,7 +73,7 @@ There are three default layouts in Hexo: `post`, `page` and `draft`. Files creat
 
 Previously, we mentioned a special layout in Hexo: `draft`. Posts initialized with this layout are saved to the `source/_drafts` folder. You can use the publish command to move drafts to the `source/_posts` folder. publish works in a similar way to the new command.
 
-`$ hexo publish [layout] <title>`
+`$ npx hexo publish [layout] <title>`
 
 Drafts are not displayed by default. You can add the `--draft` option when running Hexo or enable the `render_drafts` setting in `_config.yml` to render drafts.
 
@@ -81,7 +81,7 @@ Drafts are not displayed by default. You can add the `--draft` option when runni
 
 When creating posts, Hexo will build files based on the corresponding file in `scaffolds` folder. For example:
 
-`$ hexo new photo "My Gallery"`
+`$ npx hexo new photo "My Gallery"`
 
 When you run this command, Hexo will try to find `photo.md` in the `scaffolds` folder and build the post based on it. The following placeholders are available in scaffolds:
 
