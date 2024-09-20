@@ -52,8 +52,8 @@ navbar:
   menu: 
     Home: /
     About: /about/
-    Ideas: /ideas/
-    Stall: /cco/stall/
+    CyberCode Online: /categories/cco/
+    Torn: /categories/torn/
   links:
     # Github:
     #   icon: fab fa-github
