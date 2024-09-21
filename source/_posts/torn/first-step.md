@@ -53,7 +53,7 @@ Ayo, **K4LM3D** right here. I'm just chilling here at my apartment while writing
 
 <!-- more -->
 
-<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alytt="Torn.com"></a>
+<a href="https://www.torn.com/3091002" target="_blank"><img src="/games-images/torn/static_300x250_torncity.jpg" alt="Torn.com"></a>
 
 ## 🏢 First day, first job
 

@@ -68,7 +68,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `BIO2400` : Forensic Science
   - [ ] `BIO2410` : Anatomy
   - [x] `BIO2127` : Intravenous Therapy
-- [ ] `BIO3420` : Bachelor Of Biology
+- [ ] `BIO3420` : Bachelor Of Biology+
 
 ### Business
 - [ ] `BUS1100` : Introduction To Business
@@ -102,8 +102,8 @@ In this post, I will show you the list of courses I taken up, currently taking, 
 - [x] `CMT1520` : Introduction To Computing
   - [x] `CMT2230` : Web Design And Development
   - [x] `CMT2530` : Intermediate Programming
-    - [ ] `CMT2560` : **Algorithms And Advanced Programming** *(currently taking)*
-    - [ ] `CMT2130` : Web Security And Penetration Testing **[New]**
+    - [x] `CMT2560` : Algorithms And Advanced Programming
+    - [ ] `CMT2130` : **Web Security And Penetration Testing** **[New]** *(currently taking)*
     - [ ] `CMT2131` : Automated Data Mining & Processing **[New]**
   - [ ] `CMT2540` : Networking
     - [ ] `CMT2610` : Computer Security And Defense
@@ -128,7 +128,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `GEN2120` : Survival Skills
   - [ ] `GEN2122` : Newtonian Physics*
   - [ ] `GEN2123` : Ivory Crafting*
-- [ ] `GEN3121` : Bachelor Of General Studies
+- [ ] `GEN3121` : Bachelor Of General Studies+
 
 ### Health & Fitness
 - [ ] `HAF1103` : Introduction To Health And Fitness
@@ -166,7 +166,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `LAW2990` : International Human Rights
   - [ ] `LAW2100` : Media Law
   - [x] `LAW2101` : Revenue Law
-- [ ] `LAW3102` : Bachelor Of Law
+- [ ] `LAW3102` : Bachelor Of Law+
 
 ### Mathematics
 - [ ] `MTH1220` : Introduction To Mathematics
@@ -179,7 +179,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `MTH2290` : Trigonometry*
   - [ ] `MTH2300` : Calculus*
   - [ ] `MTH2310` : Discrete Mathematics
-- [ ] `MTH3330` : Bachelor Of Mathematics
+- [ ] `MTH3330` : Bachelor Of Mathematics+
 
 ### Psychology
 - [x] `PSY1630` : Introduction To Psychology
@@ -189,7 +189,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `PSY2670` : Applied Decision Methods
   - [ ] `PSY2680` : Attention And Awareness
   - [ ] `PSY2132` Intrapersonal Dynamics **[New]**
-- [ ] `PSY3690` : Bachelor Of Psychological Sciences
+- [ ] `PSY3690` : Bachelor Of Psychological Sciences+
 
 ### Self Defence
 - [x] `DEF1700` : Introduction To Self Defense
@@ -199,7 +199,7 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [ ] `DEF2740` : Jujitsu
   - [ ] `DEF2750` : Tae Kwon Do
   - [ ] `DEF2760` : Muay Thai
-- [ ] `DEF3770` : Bachelor Of Self Defense
+- [ ] `DEF3770` : Bachelor Of Self Defense+
 
 ### Sports Science
 - [x] `SPT1430` : Introduction To Sports Science
@@ -211,12 +211,16 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [x] `SPT2490` : Nutritional Science
   - [x] `SPT2500` : Analysis And Performance
   - [ ] `SPT2126` : Sports Administration
-- [ ] `SPT3510` : Bachelor Of Sports Science
+- [ ] `SPT3510` : Bachelor Of Sports Science+
 
 ___
 *<small>Last updated on 2024-08-29</small>*
 <article class="message is-primary">
   <div class="message-body">
-    <small>*Courses that either I'm not taking or is not in my priority to take first</small>
+    <small>
+      *Course(s) that either I'm not taking or not in my priority to take first
+      <br>
+      +Degree(s) I consider taking next
+    </small>
   </div>
 </article>
