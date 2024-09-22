@@ -53,7 +53,7 @@ One day, I came upon an advertisement on a public server concerning "the future 
 
 After being greeted by their counselor, I met their commander a few days later. He assisted me in creating files on the server. They have several monetary systems and such.
 
-The commander told me that in order to continue on their server and secure Shangri-La's future, I needed to join a strong gang. Then, I remembered having met someone a long time ago. She leads a vast gang. I'm not sure if they're powerful, but she's also on the private server, so I contacted her, and she warmly welcomed me to the gang.
+The commander told me that in order to continue on their server and secure Shangri-La's future, I needed to join a strong gang. Then, I remembered having met someone a long time ago. She leads a vast gang. I'm not sure if they're powerful, but she's also on the private server. I recognized her username, so I contacted her. I explained everything and she warmly welcomed me to the gang.
 
 Then I discovered that her gang was quite kind and loved to "help other people". I'm happy that I joined her gang since my worries began to fade after that day. I will talk about those worries later. Back on the private server, there are four factions. I'm not going to list them all. I'll only post about the faction that I joined.
 

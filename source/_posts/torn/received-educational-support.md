@@ -1,5 +1,5 @@
 ---
-title: I Received Educational Support
+title: I Received Educational Support From Our Faction Leader
 date: 2024-09-20 20:19:13
 updated:
 excerpt: "I recently received a significant financial gift from my faction leader. This generous donation allowed me to invest in West Side University's stock market and purchase a donator pack. While my recent expenses have depleted my funds, I'm excited about the benefits and looking forward to future opportunities in the game."
