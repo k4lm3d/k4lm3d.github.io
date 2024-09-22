@@ -142,6 +142,11 @@ widgets:
     position: right
     type: toc
     index: true
+  - position: right
+    type: links
+    links:
+      CyberCode Online: /categories/cco/
+      Torn: /categories/torn/
 plugins:
   animejs: true
   back_to_top: true
