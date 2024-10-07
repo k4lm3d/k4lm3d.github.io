@@ -34,7 +34,7 @@ widgets:
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
-    # follow_link: https://github.com/K4LM3D
+    follow_link: https://www.torn.com/3091002
     social_links:
       Facebook:
         icon: fab fa-facebook
