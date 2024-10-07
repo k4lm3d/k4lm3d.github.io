@@ -33,6 +33,7 @@ widgets:
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
+    follow_link: https://www.torn.com/3091002
     social_links:
       Facebook:
         icon: fab fa-facebook
@@ -61,11 +62,11 @@ As I sit down to write this, I can hardly believe how close I am to achieving a 
 >   - [x] `CMT2230` : Web Design And Development `(7 Days)`
 >   - [x] `CMT2530` : Intermediate Programming `(14 Days)`
 >     - [x] `CMT2560` : Algorithms And Advanced Programming `(21 Days)`
->     - [ ] `CMT2130` : **Web Security And Penetration Testing** `(7 Days)` **[New]** *(currently taking)*
->     - [ ] `CMT2131` : Automated Data Mining & Processing `(14 Days)` **[New]**
+>     - [x] `CMT2130` : Web Security And Penetration Testing `(7 Days)` **[New]**
+>     - [x] `CMT2131` : Automated Data Mining & Processing `(14 Days)` **[New]**
 >   - [ ] `CMT2540` : Networking `(14 Days)`
 >     - [ ] `CMT2610` : Computer Security And Defense `(28 Days)`
->   - [ ] `CMT2550` : Computer Repair `(14 Days)`
+>   - [ ] `CMT2550` : **Computer Repair** `(14 Days)` *(currently taking)*
 >   - [x] `CMT2570` : Fundamentals Of Computer Architecture `(14 Days)`
 >     - [x] `CMT2128` : Overclocking `(7 Days)`
 >       - [x] `CMT2129` : Advanced Overclocking `(7 Days)`

@@ -25,6 +25,7 @@ widgets:
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
+    follow_link: https://www.torn.com/3091002
     social_links:
       Facebook:
         icon: fab fa-facebook
@@ -103,11 +104,11 @@ In this post, I will show you the list of courses I taken up, currently taking, 
   - [x] `CMT2230` : Web Design And Development
   - [x] `CMT2530` : Intermediate Programming
     - [x] `CMT2560` : Algorithms And Advanced Programming
-    - [ ] `CMT2130` : **Web Security And Penetration Testing** **[New]** *(currently taking)*
-    - [ ] `CMT2131` : Automated Data Mining & Processing **[New]**
+    - [x] `CMT2130` : Web Security And Penetration Testing **[New]**
+    - [x] `CMT2131` : Automated Data Mining & Processing **[New]**
   - [ ] `CMT2540` : Networking
     - [ ] `CMT2610` : Computer Security And Defense
-  - [ ] `CMT2550` : Computer Repair
+  - [ ] `CMT2550` : **Computer Repair** *(currently taking)*
   - [x] `CMT2570` : Fundamentals Of Computer Architecture
     - [x] `CMT2128` : Overclocking
       - [x] `CMT2129` : Advanced Overclocking
