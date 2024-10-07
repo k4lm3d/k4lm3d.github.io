@@ -21,7 +21,7 @@ widgets:
     location: Torn City
     avatar: /images/banners/K4LM3D_standard.gif
     avatar_rounded: true
-    # follow_link: https://github.com/K4LM3D
+    follow_link: https://www.torn.com/3091002
     social_links:
       Facebook:
         icon: fab fa-facebook
@@ -55,9 +55,45 @@ Torn is a massive multiplayer game with thousands of active players around the w
 
 <a href="https://www.torn.com/3091002" target="_blank"><img src="https://www.torn.com/sigs/8_3091002.png" /></a>
 
+<article class="message is-secondary">
+  <div class="message-body">
+    <small>
+      Notice: This is not sponsored but an act of appreciation to the games that makes me forget about reality for just a moment.
+    </small>
+  </div>
+</article>
 
-<br>
+---
+
+### Goals
+*(in-game)*
+
+<article class="message is-primary">
+  <div class="message-body">
+    <i class="fas fa-info mr-2"></i> Information in this post are frequently changed or updated so check this post again for updates
+  </div>
+</article>
+
+**Crimes**
+  - [x] Bootlegging: Take CMT2230 Web Design and Development
+  - [x] Bootlegging: Honor: Online Entreprenuer
+  - [x] Bootlegging: Enhancer: High-Speed Drive
+  - [x] Bootlegging: Skill lvl.50: Set up an online store
+  - [x] Bootlegging: Skill lvl.100
+  - [x] Cracking: Skill lvl.50
+  - [x] Cracking: Honor: Character Assassination
+  - [ ] Buy all enhancers for crimes
+  - [ ] Cracking: Skill lvl.100
+
+**Education**
+  - [ ] Computer Science: Finish the course
+
+**Job**
+  - [x] Education: Position: Principal
+  - [x] Army: Position: General
+  - [ ] Law
+  - [ ] Apply to a Law Firm? *(or make one?)*
+  - [ ] Back to a Security Firm?
 
 ___
-
-`Notice: This is not sponsored but an act of appreciation to the games that makes me forget about reality for just a moment.`
+*<small>Last updated on 2024-08-29</small>*
