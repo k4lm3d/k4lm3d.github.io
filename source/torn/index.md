@@ -96,4 +96,4 @@ Torn is a massive multiplayer game with thousands of active players around the w
   - [ ] Back to a Security Firm?
 
 ___
-*<small>Last updated on 2024-08-29</small>*
+*<small>Last updated on 2024-10-07</small>*
