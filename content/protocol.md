@@ -5,11 +5,7 @@ draft = false
 description = "Gaming Protocol: A Guide to Fair Play and Positive Gaming Experiences"
 +++
 
-**A Guide to Fair Play and Positive Gaming Experiences**
-
-{{< alert icon="lightbulb" >}}
-  A gaming protocol is a set of rules and guidelines designed to ensure a positive and fair gaming experience for all participants.
-{{< /alert >}}
+A gaming protocol is a set of rules and guidelines designed to ensure a positive and fair gaming experience for all participants.
 
 ## Core Principles
 
@@ -17,47 +13,47 @@ While specific protocols can vary depending on the game and community, here are 
 
 1. **Respect for Others**
 
-     - **Treat others with kindness** - Avoid using offensive language, personal attacks, or discriminatory remarks.
+    - **Treat others with kindness** - Avoid using offensive language, personal attacks, or discriminatory remarks.
 
-     - **Be patient and understanding** - Everyone makes mistakes.
+    - **Be patient and understanding** - Everyone makes mistakes.
 
-     - **Respect different play styles** - Not everyone plays the same way.
+    - **Respect different play styles** - Not everyone plays the same way.
 
-     - **Help Other Players (H.O.P.)** - Actively assist other players, especially newcomers, by offering advice, tips, and support.
+    - **Help Other Players (H.O.P.)** - Actively assist other players, especially newcomers, by offering advice, tips, and support.
 
 2. **Fair Play**
 
-     - **Avoid cheating** - This includes using hacks, exploits, or other unfair tactics.
+    - **Avoid cheating** - This includes using hacks, exploits, or other unfair tactics.
 
-     - **Play by the rules** - Follow the game's rules and guidelines.
+    - **Play by the rules** - Follow the game's rules and guidelines.
 
-     - **Report cheaters and toxic behavior** - Help maintain a fair and positive environment.
+    - **Report cheaters and toxic behavior** - Help maintain a fair and positive environment.
 
 3. **Positive Communication**
 
-     - **Use clear and concise language** - Avoid excessive use of slang or abbreviations.
+    - **Use clear and concise language** - Avoid excessive use of slang or abbreviations.
 
-     - **Listen actively** - Pay attention to what others are saying.
+    - **Listen actively** - Pay attention to what others are saying.
 
-     - **Offer constructive feedback** - Provide helpful suggestions for improvement.
+    - **Offer constructive feedback** - Provide helpful suggestions for improvement.
 
-     - **Encourage cooperation and teamwork** - Work together with other players to achieve common goals.
+    - **Encourage cooperation and teamwork** - Work together with other players to achieve common goals.
 
 4. **Balance Gaming and Real Life**
 
-     - **Prioritize real-life responsibilities** - Remember that real-life commitments, such as work, school, and family, should always take precedence over gaming.
+    - **Prioritize real-life responsibilities** - Remember that real-life commitments, such as work, school, and family, should always take precedence over gaming.
 
-     - **Set limits** - Establish time limits for gaming to avoid excessive play.
+    - **Set limits** - Establish time limits for gaming to avoid excessive play.
 
-     - **Take breaks** - Regularly step away from gaming to rest and recharge.
+    - **Take breaks** - Regularly step away from gaming to rest and recharge.
 
 5. **Sportsmanship**
 
-     - **Win with grace and lose with dignity** - Don't gloat or rage quit.
+    - **Win with grace and lose with dignity** - Don't gloat or rage quit.
 
-     - **Congratulate opponents** - Acknowledge their skill and effort.
+    - **Congratulate opponents** - Acknowledge their skill and effort.
 
-     - **Learn from mistakes** - Use setbacks as opportunities to improve.
+    - **Learn from mistakes** - Use setbacks as opportunities to improve.
 
 
 ## Additionals
