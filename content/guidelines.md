@@ -1,8 +1,8 @@
-+++
-title = 'Community Guidelines'
-date = 2024-11-15T03:42:51+08:00
-draft = false
-+++
+---
+title: 'Community Guidelines'
+date: 2024-11-15T03:42:51+08:00
+draft: false
+---
 
 To ensure a positive and enjoyable experience for everyone, please follow these guidelines:
 

@@ -1,9 +1,9 @@
-+++
-title = 'Gaming Protocol'
-date = 2024-11-13T16:12:32+08:00
-draft = false
-description = "Gaming Protocol: A Guide to Fair Play and Positive Gaming Experiences"
-+++
+---
+title: 'Gaming Protocol'
+date: 2024-11-13T16:12:32+08:00
+draft: false
+description: "Gaming Protocol: A Guide to Fair Play and Positive Gaming Experiences"
+---
 
 A gaming protocol is a set of rules and guidelines designed to ensure a positive and fair gaming experience for all participants.
 

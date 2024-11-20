@@ -1,10 +1,10 @@
-+++
-title = 'My To Do List'
-date = 2024-11-21T00:35:03+08:00
-draft = false
-description = "Goals or to do list"
-# slug = 'todo'
-+++
+---
+title: 'My To Do List'
+date: 2024-11-21T00:35:03+08:00
+draft: false
+description: "Goals or to do list"
+slug: ['todo', 'todos', 'to-dos']
+---
 
 ## To dos:
 
@@ -16,4 +16,4 @@ description = "Goals or to do list"
 ### More...
 
 - [Torn: My Goals](/torn/goals/)
-- [CyberCode Online: Currently Working On](/cco/about/#%F0%9F%94%AD-Currently-working-on-%E2%80%A6)
+- [CyberCode Online: Currently Working On](/cco/about/)
