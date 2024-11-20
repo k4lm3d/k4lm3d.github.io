@@ -4,10 +4,6 @@ date = 2024-11-15T03:42:51+08:00
 draft = false
 +++
 
-<!-- **Welcome to Our Community!** -->
-
-<!-- We're excited to have you join our community! -->
-
 To ensure a positive and enjoyable experience for everyone, please follow these guidelines:
 
 <!-- 
