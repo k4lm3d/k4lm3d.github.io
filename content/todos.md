@@ -3,7 +3,6 @@ title: 'My To Do List'
 date: 2024-11-21T00:35:03+08:00
 draft: false
 description: "Goals or to do list"
-slug: 'to-dos'
 ---
 
 ## To dos:

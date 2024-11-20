@@ -4,7 +4,6 @@ date: 2024-11-15T01:24:39+08:00
 draft: false
 description: "H.O.P. Protocol: A Guide for Helping Other Players"
 showDate: true
-slug: "H.O.P-Protocol"
 ---
 
 > *"We love to help other players!"* &mdash;krolik
