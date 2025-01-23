@@ -12,33 +12,33 @@ description: ""
 </button> -->
 
 {{< button href="/cco/" >}}
-  {{< icon "link" >}} CyberCode Online Logs
+  {{< icon "link" >}}  CCO Logs
 {{< /button >}}
 
 <br>
 <br>
 
 {{< button href="/torn/" >}}
-  {{< icon "link" >}} Torn City Blogs
+  {{< icon "link" >}}  Torn Diaries
 {{< /button >}}
 
 <br>
 <br>
 
 {{< button href="https://peekaph.one/u/b73e17cc-b547-4ae1-9f3d-8da3af6a73ad" target="_blank" >}}
-  {{< icon "link" >}} PeekAPhone: Office Buddies
+  {{< icon "link" >}}  Office Buddies
 {{< /button >}}
 
 <br>
 <br>
 
 {{< button href="https://k4lm3d.itch.io" target="_blank" >}}
-  {{< icon "link" >}} Itch.io: Recommended Games
+  {{< icon "link" >}}  Recommended Games
 {{< /button >}}
 
 <br>
 <br>
 
 {{< button href="https://quantic.page.link/h5ioQWnBvFZi84cr7" target="_blank" >}}
-  {{< icon "link" >}} Quantic Lab: Assessment
+  {{< icon "link" >}}  Quantic Gamer Type
 {{< /button >}}
