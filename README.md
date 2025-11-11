@@ -71,6 +71,7 @@
 
   - [Theme Website of Blowfish](https://blowfish.page/)
   - [Hugo Documentation](https://gohugo.io/documentation/)
+  - [Host on GitHub Pages | Hugo Docs](https://gohugo.io/host-and-deploy/host-on-github-pages/)
 
 ### Keyboard Shortcuts
 
