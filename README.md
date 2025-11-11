@@ -39,7 +39,7 @@
   - Default subdomain: [k4lm3d.github.io](https://k4lm3d.github.io)
   - Primary domain: [kalmed.localplayer.dev](https://kalmed.localplayer.dev)
   - Redirects automatically to primary domain: 
-  - Domain alias: 
+  - Domain alias: https://kalmed.onrender.com 
 
 ## Website launching offline
 
