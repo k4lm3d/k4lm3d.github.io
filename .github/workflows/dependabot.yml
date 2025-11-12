@@ -1,6 +1,18 @@
-version: 2
-updates:
-  - package-ecosystem: gitsubmodule
-    schedule:
-        interval: "monthly"
-    directory: /
+            - name: GitHub Action Submodule Updates
+  # You may pin to the exact commit or the version.
+  # uses: releasehub-com/github-action-create-pr-parent-submodule@aff9d0978a9bbcbc2961d621d5b108c4b46db5e7
+  uses: releasehub-com/github-action-create-pr-parent-submodule@v1
+  with:
+    # Github Token
+    github_token: SUBMODULE_AUTOUPDATE
+    # Branch to checkout
+    checkout_branch: # optional, default is main
+    # Parent branch
+    pr_against_branch: 
+    # Parent Repository
+    parent_repository: 
+    # Owner
+    owner: 
+    # Create Release Environment label
+    label: # optional, default is Create Release Environment
+          
