@@ -1,4 +1,4 @@
-# Site details
+# Site details.
 
   > General information about the site
 
