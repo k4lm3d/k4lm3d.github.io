@@ -19,6 +19,14 @@ description: ""
 
 ## My Profiles
 
-- [Quantic Gamer Type](https://quantic.page.link/h5ioQWnBvFZi84cr7)
+- [Guns.lol](https://guns.lol/kaliber)
+- [Facebook](https://facebook.com/k4lm3dgg)
+- [Quantic: Gamer Type](https://quantic.page.link/h5ioQWnBvFZi84cr7)
 
 ## My Games
+
+- PeekAPhone: [Office Buddies](https://peekaph.one/u/b73e17cc-b547-4ae1-9f3d-8da3af6a73ad)
+
+## Recommended Games
+
+- Available on [itch.io](https://k4lm3d.itch.io/)
