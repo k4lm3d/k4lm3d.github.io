@@ -16,7 +16,7 @@ title = "K4LM3D"
 
 [params.author]
   name = "K4LM3D"
-  email = "k4lm3d@duck.com"
+  # email = "k4lm3d@duck.com"
   # image = "img/avatars/DALLE-K4LM3D.png"
   image = "img/banners/K4LM3D_standard.gif"
   imageQuality = 96
@@ -33,7 +33,8 @@ title = "K4LM3D"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-    { facebook = "https://facebook.com/profile.php?id=100091224549821" },
+#     { facebook = "https://facebook.com/profile.php?id=100091224549821" },
+    { facebook = "https://facebook.com/k4lm3dgg" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
     { github = "https://github.com/k4lm3d" },
@@ -41,7 +42,7 @@ title = "K4LM3D"
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
     { instagram = "https://instagram.com/k4lm3d" },
-#     { itch-io = "https://username.itch.io" },
+    { itch-io = "https://k4lm3d.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
@@ -64,7 +65,7 @@ title = "K4LM3D"
 #     { threads = "https://www.threads.net/@username" },
     { tiktok = "https://tiktok.com/@k4lm3d" },
 #     { tumblr = "https://username.tumblr.com" },
-    { twitch = "https://twitch.tv/k4lm3d" },
+#     { twitch = "https://twitch.tv/k4lm3d_" },
 #     { twitter = "https://twitter.com/k4lm3d" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
