@@ -25,20 +25,10 @@ description: ""
 <br>
 <br>
 
-{{< button href="https://peekaph.one/u/b73e17cc-b547-4ae1-9f3d-8da3af6a73ad" target="_blank" >}}
-  {{< icon "link" >}}  Office Buddies
+{{< button href="links" >}}
+  {{< icon "link" >}}  Other Links
 {{< /button >}}
 
-<br>
-<br>
-
-{{< button href="https://k4lm3d.itch.io" target="_blank" >}}
-  {{< icon "link" >}}  Recommended Games
-{{< /button >}}
-
-<br>
-<br>
-
-{{< button href="https://quantic.page.link/h5ioQWnBvFZi84cr7" target="_blank" >}}
-  {{< icon "link" >}}  Quantic Gamer Type
-{{< /button >}}
+<!-- {{< button href="#links" target="_blank" >}}
+  {{< icon "link" >}}  Links
+{{< /button >}} -->
