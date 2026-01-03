@@ -22,6 +22,7 @@ description: ""
 - [Guns.lol](https://guns.lol/kaliber)
 - [Facebook](https://facebook.com/k4lm3dgg)
 - [Quantic: Gamer Type](https://quantic.page.link/h5ioQWnBvFZi84cr7)
+- [GamerProfiles](https://gamerprofiles.com/gamer/k4lm3d)
 
 ## My Games
 
@@ -30,3 +31,4 @@ description: ""
 ## Recommended Games
 
 - Available on [itch.io](https://k4lm3d.itch.io/)
+
