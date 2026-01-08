@@ -55,7 +55,7 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo -d ./public --baseURL https://kalmed.localplayer.net/
+          hugo -d ./public --baseURL https://kalmed.localplayer.dev/
     
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
