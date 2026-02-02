@@ -10,6 +10,9 @@ description: ""
 - [SimCompanies: simcompanies.com/ref/1434933](https://www.simcompanies.com/ref/1434933)
     - Anyone who registers with my link will get an extra $2,000 at the start!
 - [GamerProfiles: gamerprofiles.com/invite/wnB4D](https://gamerprofiles.com/invite/wnB4D)
+  - We will both receive +100 GP points when you registered with my referral link.
+- [Mob Wars City: mobwarscity.com/home.php?referer=518](https://mobwarscity.com/home.php?referer=518)
+- [Mobsteria: mobsteria.com/register?ref=xVYbOjJX](https://mobsteria.com/register?ref=xVYbOjJX)
 
 ## Referral Codes
 
@@ -32,4 +35,5 @@ description: ""
 ## Recommended Games
 
 - Available on [itch.io](https://k4lm3d.itch.io/)
+
 
