@@ -5,11 +5,11 @@ description: ""
 
 ## Referrals Links
 
-- [TORN: https://www.torn.com/3091002](https://www.torn.com/3091002)
+- [TORN: torn.com/3091002](https://www.torn.com/3091002)
     - Use my referral link and you will receive $100,000 dollars from my own pocket!
-- [SimCompanies: https://www.simcompanies.com/ref/1434933](https://www.simcompanies.com/ref/1434933)
+- [SimCompanies: simcompanies.com/ref/1434933](https://www.simcompanies.com/ref/1434933)
     - Anyone who registers with my link will get an extra $2,000 at the start!
-- [GamerProfiles: https://gamerprofiles.com/invite/wnB4D](https://gamerprofiles.com/invite/wnB4D)
+- [GamerProfiles: gamerprofiles.com/invite/wnB4D](https://gamerprofiles.com/invite/wnB4D)
 
 ## Referral Codes
 
@@ -32,3 +32,4 @@ description: ""
 ## Recommended Games
 
 - Available on [itch.io](https://k4lm3d.itch.io/)
+
