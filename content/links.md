@@ -5,15 +5,16 @@ description: ""
 
 ## Referrals Links
 
-- [TORN](https://www.torn.com/3091002)
-    - When my referral link is used, you will receive 1,000,000 dollars
-- [SimCompanies](https://www.simcompanies.com/ref/1434933)
-    - When my referral link is used, you will receive 1000 units of Q1 Flour
+- [TORN: https://www.torn.com/3091002](https://www.torn.com/3091002)
+    - Use my referral link and you will receive $100,000 dollars from my own pocket!
+- [SimCompanies: https://www.simcompanies.com/ref/1434933](https://www.simcompanies.com/ref/1434933)
+    - Anyone who registers with my link will get an extra $2,000 at the start!
+- [GamerProfiles: https://gamerprofiles.com/invite/wnB4D](https://gamerprofiles.com/invite/wnB4D)
 
 ## Referral Codes
 
 - **CyberCode Online**: `K4LM3D`
-    - When my referral code is used, you will receive x2000 Tech Scraps
+    - Use my referral code and you will receive x2000 Tech Scraps from my inventory!
 
 - **Arclight City**: `K4LM3D`
 
@@ -31,4 +32,3 @@ description: ""
 ## Recommended Games
 
 - Available on [itch.io](https://k4lm3d.itch.io/)
-
