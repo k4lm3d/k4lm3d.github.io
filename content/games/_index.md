@@ -10,14 +10,10 @@ cascade:
   showViews: false
 groupByYear: false
 # layoutBackgroundHeaderSpace: false
-# cardViewScreenWidth: false
+cardView: true
+cardViewScreenWidth: false
 ---
 
 {{< lead >}}
-
 Games built by K4LM3D.
-
 {{</ lead >}}
-
-
----
