@@ -13,10 +13,11 @@ groupByYear: false
 # cardViewScreenWidth: false
 ---
 
-{{< alert >}}
+{{< lead >}}
 
 Games built by K4LM3D.
 
 {{</ lead >}}
+
 
 ---
