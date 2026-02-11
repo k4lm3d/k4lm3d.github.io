@@ -103,4 +103,5 @@
   - [x] Publish an About page
 <!-- TODO: End of to do list -->
 
-***
+___
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O21U14QZ)
