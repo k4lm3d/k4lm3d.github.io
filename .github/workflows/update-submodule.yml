@@ -1,0 +1,44 @@
+name: Update Submodule
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # Every Monday 3 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-theme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository with submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Update submodule
+        run: |
+          git submodule update --remote --merge
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create Pull Request
+        if: steps.changes.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: auto/update-blowfish
+          commit-message: "chore: update Blowfish theme"
+          title: "Update Blowfish theme"
+          body: "Automated update of Blowfish submodule."
+          delete-branch: true
